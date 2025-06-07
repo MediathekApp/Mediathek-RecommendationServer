@@ -1,0 +1,264 @@
+[
+  {
+    "urn": "urn:mediathek:arte:program:RC-022610_de",
+    "categories": ["magazine", "talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014077_de",
+    "categories": ["talkshow", "culture", "society", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014120_de",
+    "categories": ["reportage", "travel_nature", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-021159_de",
+    "categories": ["knowledge", "documentary", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023198_de",
+    "categories": ["news", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014082_de",
+    "categories": ["kids", "news", "magazine"]
+  },
+  {"urn": "urn:mediathek:arte:program:RC-014085_de", "categories": ["news"]},
+  {
+    "urn": "urn:mediathek:arte:program:RC-013956_de",
+    "categories": ["reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014123_de",
+    "categories": ["reportage"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014095_de",
+    "categories": ["magazine", "culture", "film"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023040_de",
+    "categories": ["culture", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-017300_de",
+    "categories": ["culture", "magazine", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-020782_de",
+    "categories": ["knowledge", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023288_de",
+    "categories": ["culture", "show"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-015860_de",
+    "categories": ["magazine", "society", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014034_de",
+    "categories": ["culture", "comedy", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014513_de",
+    "categories": ["film", "magazine", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-026195_de",
+    "categories": ["food_cooking", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023176_de",
+    "categories": ["knowledge", "culture", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-024364_de",
+    "categories": ["reportage", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014036_de",
+    "categories": ["knowledge", "magazine", "news"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-022259_de",
+    "categories": ["news", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-022076_de",
+    "categories": ["society", "talkshow", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014080_de",
+    "categories": ["talkshow", "society", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014078_de",
+    "categories": ["talkshow", "society", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014340_de",
+    "categories": ["travel_nature", "culture", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-026488_de",
+    "categories": ["knowledge", "magazine", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014424_de",
+    "categories": ["society", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014037_de",
+    "categories": ["reportage", "music", "culture", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-019950_de",
+    "categories": ["culture", "magazine", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-024376_de",
+    "categories": ["society", "talkshow", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014124_de",
+    "categories": ["food_cooking", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-026303_de",
+    "categories": ["food_cooking", "knowledge", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-018547_de",
+    "categories": ["music", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-022610_fr",
+    "categories": ["magazine", "talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014077_fr",
+    "categories": ["magazine", "news", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014120_fr",
+    "categories": ["reportage", "travel_nature", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-021159_fr",
+    "categories": ["knowledge", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023198_fr",
+    "categories": ["news", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014082_fr",
+    "categories": ["kids", "news", "magazine"]
+  },
+  {"urn": "urn:mediathek:arte:program:RC-014085_fr", "categories": ["news"]},
+  {
+    "urn": "urn:mediathek:arte:program:RC-013956_fr",
+    "categories": ["reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014123_fr",
+    "categories": ["reportage"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014095_fr",
+    "categories": ["magazine", "culture", "film"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014513_fr",
+    "categories": ["film", "magazine", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014124_fr",
+    "categories": ["food_cooking", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-020782_fr",
+    "categories": ["knowledge", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-017300_fr",
+    "categories": ["culture", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023288_fr",
+    "categories": ["culture", "show"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014340_fr",
+    "categories": ["travel_nature", "culture", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-015860_fr",
+    "categories": ["magazine", "society", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014034_fr",
+    "categories": ["culture", "comedy", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014036_fr",
+    "categories": ["knowledge", "magazine", "news"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-022259_fr",
+    "categories": ["news", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023176_fr",
+    "categories": ["knowledge", "culture", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-022076_fr",
+    "categories": ["society", "talkshow", "knowledge", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014080_fr",
+    "categories": ["talkshow", "society", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-024364_fr",
+    "categories": ["reportage", "society", "magazine", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014078_fr",
+    "categories": ["talkshow", "society", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014424_fr",
+    "categories": ["society", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-014037_fr",
+    "categories": ["reportage", "music", "culture", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-019950_fr",
+    "categories": ["culture", "magazine", "society"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-023040_fr",
+    "categories": ["culture", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-024376_fr",
+    "categories": ["society", "talkshow", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-026195_fr",
+    "categories": ["food_cooking", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-026303_fr",
+    "categories": ["food_cooking", "knowledge", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:arte:program:RC-018547_fr",
+    "categories": ["music", "documentary"]
+  }
+]

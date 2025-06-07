@@ -1,0 +1,2529 @@
+[
+  {
+    "urn": "urn:mediathek:zdf:program:ab-18-102",
+    "categories": ["documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:abenteuer-auswandern-104",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:achtung-essen-108",
+    "categories": ["documentary", "lifestyle", "knowledge", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:addie-und-wie-sie-die-welt-fuehlt-102",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:agatha-christies-hjerson-102",
+    "categories": ["series", "crime", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:a-good-girls-guide-to-murder-102",
+    "categories": ["series", "crime", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:aktenzeichen-xy-ungeloest-110",
+    "categories": ["crime", "show", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:aktion-mensch-108",
+    "categories": ["society", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-aktuelle-sportstudio-220",
+    "categories": ["sports", "magazine", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:alex-rider-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:alle-meine-toechter-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojq0ywy1odawzty2yjm5njc-172",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:am-anschlag-die-macht-der-kraenkung-102",
+    "categories": ["series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:america-lets-talk-114",
+    "categories": ["documentary", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:am-puls-100",
+    "categories": ["reportage", "society", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:andere-eltern-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:anna-106",
+    "categories": ["series", "film", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojblzda1ywm5mdg3mzzhmwq-146",
+    "categories": ["talkshow", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:annie-106",
+    "categories": ["series", "film", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-anstalt-104",
+    "categories": ["comedy", "show", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:another-monday-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:app-und-on-100",
+    "categories": ["kids", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:arabiens-traum-von-der-zukunft-102",
+    "categories": ["documentary", "reportage", "society", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omvimji3mgewmwnimta0mwy-206",
+    "categories": ["magazine", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuxngjkodfkyza4ztu0mza-138",
+    "categories": ["series", "crime", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:aschenberg-106",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:aspekte-106",
+    "categories": ["culture", "magazine", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:astrid-lindgren-108",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:auf-der-couch-106",
+    "categories": ["talkshow", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:aufgestaut-102",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:aurel-original-102",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:auslandsjournal-138",
+    "categories": ["news", "magazine", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:auslandsjournal-extra-242",
+    "categories": ["news", "magazine", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:aussenperspektiven-110",
+    "categories": ["reportage", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojy1odgznjeynde5otuxmdq-140",
+    "categories": ["documentary", "knowledge", "travel_nature", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omvmzje3nteymtu3oda5y2e-124",
+    "categories": ["series", "crime", "history"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:backstage-154",
+    "categories": ["documentary", "reportage", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:doktor-ballouz-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:inspector-barnaby-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bauchgefuehl-108",
+    "categories": ["series", "film", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:the-bay-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:beat-covid-100",
+    "categories": ["culture", "music", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kommissar-beck-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:becoming-charlie-102",
+    "categories": ["series", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bff-best-family-forever-100",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bella-block-110",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:belle-und-sebastian-102",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-bergdoktor-106",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojbjnte1ymnhzdg2ztfhzdk-162",
+    "categories": ["reportage", "travel_nature", "lifestyle", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-bergretter-104",
+    "categories": ["series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje3njg1nmmzztexzjqxogi-182",
+    "categories": ["news", "magazine", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:berlin-direkt-104",
+    "categories": ["news", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oja4ntcwmjqzzwzmmdvhmmi-126",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:berlin-und-wir-118",
+    "categories": ["documentary", "reportage", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdfbesseresser-100",
+    "categories": ["documentary", "knowledge", "lifestyle", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omu5mzyxndi0zgfimzkwzjc-136",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bettys-diagnose-106",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:beyond-paradise-100",
+    "categories": ["series", "crime", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bianca-wege-zum-glueck-100",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bibi-blocksberg-110",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bibi-und-tina-122",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-biene-maja-110",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bilder-aus-suedtirol-102",
+    "categories": [
+      "magazine",
+      "culture",
+      "society",
+      "reportage",
+      "travel_nature"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bier-royal-102",
+    "categories": ["series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:blutige-anfaenger-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:boarders-welcome-to-st-gilberts-100",
+    "categories": ["series", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:boehmi-brutzelt-104",
+    "categories": ["talkshow", "show", "lifestyle", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:borderline-grenzenlose-verbrechen-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:borders-102",
+    "categories": ["series", "film", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bosetti-late-night-102",
+    "categories": ["comedy", "show", "talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bosetti-will-reden-102",
+    "categories": ["comedy", "show", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyzztm5zde0mdi3mtlmyzy-1006",
+    "categories": ["magazine", "news", "lifestyle", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:browser-ballett-100",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:buchstaeblich-leben-102",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:buchzeit-106",
+    "categories": ["culture", "talkshow", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:chaos-comedy-club-102",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:checkpoint-104",
+    "categories": ["kids", "knowledge", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-chefin-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojm0nmnmntbimzgwntixmte-170",
+    "categories": ["comedy", "talkshow", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:clashing-differences-102",
+    "categories": ["series", "comedy", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:club-der-dinosaurier-102",
+    "categories": ["series", "kids", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:club-der-magischen-dinge-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-zdf-comedy-sommer-100",
+    "categories": ["comedy", "show"]
+  },
+  {"urn": "urn:mediathek:zdf:program:concordia-100", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:countdown-copenhagen-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojcxnzi1zwe5zddhyjuyndk-324",
+    "categories": ["crime", "documentary", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:crossfire-tod-in-der-sonne-102",
+    "categories": ["series", "film", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:crystal-wall-100",
+    "categories": ["series"]
+  },
+  {"urn": "urn:mediathek:zdf:program:dalli-dalli-100", "categories": ["show"]},
+  {
+    "urn": "urn:mediathek:zdf:program:dan-sommerdahl-toedliche-idylle-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:riding-in-darkness-102",
+    "categories": ["series", "crime", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-dschungelbuch-106",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-erbe-der-guldenburgs-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-erste-mal-asien-102",
+    "categories": [
+      "kids",
+      "travel_nature",
+      "documentary",
+      "reportage",
+      "society"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-erste-mal-europa-102",
+    "categories": [
+      "kids",
+      "travel_nature",
+      "documentary",
+      "reportage",
+      "society"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-erste-mal-usa-100",
+    "categories": [
+      "kids",
+      "travel_nature",
+      "documentary",
+      "reportage",
+      "society"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-geheimnis-der-meister-112",
+    "categories": ["documentary", "culture", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-literarische-quartett-160",
+    "categories": ["talkshow", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-maedchen-und-die-nacht-102",
+    "categories": ["series", "film", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-raetsel-der-runen-100",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-quartett-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-traumschiff-104",
+    "categories": ["series", "travel_nature", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-zockerhaus-102",
+    "categories": ["show", "documentary", "reportage", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:deadlines-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:deadly-tropics-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:death-in-paradise-120",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje4yzm3mmixyty1mwmyyji-170",
+    "categories": ["talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:dein-song-108",
+    "categories": ["show", "music", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-alte-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhintvimmjmytc2ymu4nwm-210",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-fernsehfilm-der-woche-104",
+    "categories": ["film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-gute-bulle-114",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-junge-inspektor-morse-134",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-kleine-drache-kokosnuss-108",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-kommissar-und-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-kommissar-und-das-meer-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-kommissar-und-der-see-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzmowzhzmqxzte0nzqzotk-156",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-landarzt-138",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-letzte-zeuge-274",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-mordanschlag-110",
+    "categories": ["film", "series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-palast-100",
+    "categories": ["series", "music", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-quiz-champion-106",
+    "categories": ["show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:samstagskrimi-100",
+    "categories": ["crime", "film", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-satirische-jahresrueckblick-110",
+    "categories": ["comedy", "show", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-schatten-104",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-schwarm-100",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-staatsanwalt-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oja4mmfintdmotfimzi0ngi-152",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojk0njg5m2u1ngmzotzjyta-168",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:deutscher-102",
+    "categories": ["series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:deutscher-filmpreis-102",
+    "categories": ["show", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:deutscher-zukunftspreis-104",
+    "categories": ["show", "knowledge", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:deutschland-warum-bist-du-so-100",
+    "categories": ["reportage", "documentary", "society", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-affaere-cum-ex-102",
+    "categories": ["documentary", "crime", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oju5ntmzntmxytg4mmy5odm-182",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-deutschen-140",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojnlnzy5mzhknwy3yjrhnmi-238",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-gerichtsvollzieher-schulden-pleite-pfaendung-vollstreckung-100",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-giovanni-zarrella-show-102",
+    "categories": ["show", "music"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-glorreichen-10-260",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-gutshausretter-106",
+    "categories": ["documentary", "reportage", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-immo-helden-100",
+    "categories": ["lifestyle", "reportage", "documentary", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-jaegerin-106",
+    "categories": ["series", "film", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-klimaretter-100",
+    "categories": ["documentary", "reportage", "society", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-kneipenwahl-mit-eva-schulz-102",
+    "categories": ["talkshow", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojg1mgfjmdvjnmrlowuznju-140",
+    "categories": ["series", "crime", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-kuechenschlacht-106",
+    "categories": ["food_cooking", "show", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-langen-grossen-ferien-102",
+    "categories": ["series", "film", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-letzte-bank-100",
+    "categories": ["talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-muskeltiere-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-oeko-challenge-102",
+    "categories": ["lifestyle", "reportage", "documentary", "knowledge", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzlyzhjyte1n2myzjqyogy-124",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-pembrokeshire-morde-102",
+    "categories": ["series", "crime", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-rebellin-102",
+    "categories": ["series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-rettungsflieger-104",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-rosenheim-cops-104",
+    "categories": ["series", "crime", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-schatzinsel-102",
+    "categories": ["film", "series", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-schwarzwaldklinik-198",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-show-der-shows-104",
+    "categories": ["show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-sportmacher-102",
+    "categories": ["sports", "magazine", "reportage", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-spur-224",
+    "categories": ["reportage", "documentary", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfjztnlzmyynzbjzgnhmmm-216",
+    "categories": ["documentary", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-toten-vom-bodensee-132",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-toten-von-salzburg-124",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-troedelprofis-110",
+    "categories": ["lifestyle", "reportage", "documentary", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-unsichtbaren-116",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-wannseekonferenz-102",
+    "categories": ["film", "documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-wicherts-von-nebenan-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:diese-drombuschs-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:die-zweite-welle-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:digiclash-102",
+    "categories": ["show", "society", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:docume-110",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:doku-geschichte-102",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:doku-reise-102",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:doku-tiere-102",
+    "categories": ["documentary", "travel_nature", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojewody1zgywyju5zti2mmm-252",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:doppelhaushaelfte-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:helen-dorn-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:draussen-schlafen-102",
+    "categories": ["show", "travel_nature", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:dr-nice-100",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:funk-collection-funk-11790-1590",
+    "categories": ["series", "kids", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojq0nmjiztbiywexntlintu-136",
+    "categories": ["culture", "magazine", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:duell-der-gartenprofis-104",
+    "categories": ["show", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:dunkelstadt-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:earthgame-die-bodenretter-102",
+    "categories": ["kids", "show", "knowledge", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:earthgame-die-wasserretter-102",
+    "categories": ["kids", "show", "knowledge", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:echse-auf-achse-102",
+    "categories": ["kids", "comedy", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:echt-102",
+    "categories": ["series", "kids", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:echt-friends-102",
+    "categories": ["series", "kids", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omy5mtrimtrkyjcyn2e1nzq-174",
+    "categories": ["reportage", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:edins-neo-night-100",
+    "categories": ["show", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:einfach-mensch-104",
+    "categories": ["reportage", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ein-fall-fuer-conti-100",
+    "categories": ["series", "film", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ein-fall-fuer-zwei-108",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ein-guter-grund-zu-feiern-122",
+    "categories": ["society", "documentary", "reportage", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ein-herz-fuer-kinder-104",
+    "categories": ["show", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ein-sommer-in-100",
+    "categories": ["film", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ein-starkes-team-108",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:einsame-herzen-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ommwytdmytu3ngzlm2rkntq-172",
+    "categories": ["reportage", "documentary", "travel_nature", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ella-schoen-102",
+    "categories": ["series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:elvira-102",
+    "categories": ["series", "crime", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:endlich-witwer-104",
+    "categories": ["film", "series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojizogvmzwfmmwjlmja1njk-216",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:erlesen-102",
+    "categories": ["talkshow", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ernest-und-rebecca-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzmotqyodu5zmfknzzjzgi-132",
+    "categories": ["comedy", "show", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:erzgebirgskrimi-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:esskulturen-102",
+    "categories": ["documentary", "lifestyle", "culture", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhkzju2otuwymm5mzkwyte-150",
+    "categories": ["magazine", "news", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:arte-collection-arte-rc-000000-8-100",
+    "categories": ["documentary", "reportage", "society", "news"]
+  },
+  {"urn": "urn:mediathek:zdf:program:exit-102", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:extraordinary-100",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mein-fabelhaftes-ferienhaus-102",
+    "categories": ["lifestyle", "reportage", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhlyzaxntzkzjkwmju1mge-142",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:familie-anders-100",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:familie-bundschuh-104",
+    "categories": ["series", "film", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:father-brown-166",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:fc-hollywood-102",
+    "categories": ["documentary", "sports"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdf-fernsehgarten-104",
+    "categories": ["show", "music", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:das-kleine-fernsehspiel-106",
+    "categories": ["film", "series", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:fett-und-fett-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:katie-fforde-100",
+    "categories": ["film", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:filmfrauen-die-interviews-100",
+    "categories": ["talkshow", "culture", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pettersson-und-findus-112",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:firefighters-102",
+    "categories": ["documentary", "reportage", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:first-day-102",
+    "categories": ["series", "kids", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omexnte0zdhlmmjhota1ymm-126",
+    "categories": ["documentary", "culture", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:floyd-fliege-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:funk-collection-funk-1332-1-100",
+    "categories": ["reportage", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:forum-am-freitag-154",
+    "categories": ["society", "talkshow", "magazine", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:frag-den-lesch-104",
+    "categories": ["knowledge", "show", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:freiheit-ist-das-einzigste-was-zaehlt-100",
+    "categories": ["documentary", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:friesland-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:frontal-102",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:fruehling-144",
+    "categories": ["series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:fuenf-freunde-114",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:fuenf-freunde-classics-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:furia-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:game-two-104",
+    "categories": ["show", "comedy", "lifestyle", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojjlyzbmzmm1mtu4ymy0njg-1272",
+    "categories": ["show", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojgzm2fhnwmznmi2zmnlyzm-170",
+    "categories": ["documentary", "travel_nature", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:generation-merkel-104",
+    "categories": ["documentary", "reportage", "society", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:generation-z-106",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:geraubte-schaetze-114",
+    "categories": ["documentary", "culture", "society", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:germania-118",
+    "categories": ["talkshow", "documentary", "society", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:gestaendnisse-eines-neonazis-104",
+    "categories": ["documentary", "series", "society", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:gestern-waren-wir-noch-kinder-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omi1ywe5nwviothkytvioti-246",
+    "categories": ["documentary", "reportage", "travel_nature", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:glow-up-102",
+    "categories": ["show", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:gottesdienste-104",
+    "categories": ["society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:grauzone-100",
+    "categories": ["reportage", "documentary", "society", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:greenwashed-102",
+    "categories": [
+      "reportage",
+      "documentary",
+      "lifestyle",
+      "society",
+      "knowledge"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:grisu-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:h2o-abenteuer-meerjungfrau-108",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:h2o-ploetzlich-meerjungfrau-112",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:hacks-104",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:hallo-deutschland-104",
+    "categories": ["magazine", "reportage", "news", "lifestyle"]
+  },
+  {"urn": "urn:mediathek:zdf:program:hameln-100", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omnlzjgwnza1ndgyytk3nme-148",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:harry-wild-moerderjagd-in-dublin-102",
+    "categories": ["series", "crime", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje5y2vlmtllzmfjzgi3nge-152",
+    "categories": ["talkshow", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:hart-an-der-grenze-geschichten-aus-zittau-100",
+    "categories": ["documentary", "reportage", "society", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:heidi-114",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:herz-und-viren-102",
+    "categories": ["documentary", "society", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:heureka-100",
+    "categories": ["knowledge", "kids", "show"]
+  },
+  {"urn": "urn:mediathek:zdf:program:heute-19-uhr-102", "categories": ["news"]},
+  {
+    "urn": "urn:mediathek:zdf:program:heute-im-parlament-104",
+    "categories": ["news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:heute-in-deutschland-1-100",
+    "categories": ["news", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:heute-in-europa-1-100",
+    "categories": ["news", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:heute-journal-104",
+    "categories": ["news"],
+    "synonyms": ["heute-journal", "zdf heute-journal", "zdf heute journal"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:heute-journal-update-104",
+    "categories": ["news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdfheute-live-102",
+    "categories": ["news", "talkshow", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:heute-show-104",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:hidden-agenda-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:high-flyers-100",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojuwntjlmjvlzgjln2e0nda-166",
+    "categories": ["documentary", "knowledge", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:history-360-grad-102",
+    "categories": ["documentary", "knowledge", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:terra-x-history-102",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:sketch-history-104",
+    "categories": ["comedy", "show", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:hobby-leben-retten-102",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:honigfrauen-108",
+    "categories": ["series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:horst-lichters-traumrouten-102",
+    "categories": ["travel_nature", "documentary", "reportage", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:hungry-100",
+    "categories": ["series", "film", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ich-dich-auch-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ich-heirate-eine-familie-108",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ick-kandidiere-wahlkampf-in-brandenburg-102",
+    "categories": ["documentary", "reportage", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:i-dont-work-here-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:maybrit-illner-128",
+    "categories": ["talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:im-labyrinth-der-luegen-100",
+    "categories": ["series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:im-netz-der-camorra-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:im-schatten-der-angst-106",
+    "categories": ["series", "film", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuzmdc4otaynjm5nzq3ntk-202",
+    "categories": ["talkshow", "music", "comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:inga-lindstroem-108",
+    "categories": ["film", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ingo-thiel-108",
+    "categories": ["series", "crime", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:in-her-car-100",
+    "categories": ["series", "film", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:inside-buendnis-wagenknecht-100",
+    "categories": ["documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:inside-cdu-102",
+    "categories": ["documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:inside-politix-104",
+    "categories": ["documentary", "magazine", "knowledge", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:inui-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:in-wahrheit-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:iris-die-wahrheit-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:jahrhundertprojekt-museumsinsel-106",
+    "categories": ["documentary", "culture", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:jazz-baltica-102",
+    "categories": ["music", "culture", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:jenseits-der-spree-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:jonalu-114",
+    "categories": ["kids", "series", "music"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:josefine-toertel-und-die-tiere-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:jugend-es-ist-kompliziert-102",
+    "categories": ["series", "kids", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ossiversum-stabil-jung-im-osten-100",
+    "categories": ["documentary", "reportage", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:jussi-adler-olsen-104",
+    "categories": ["film", "series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kabarett-und-comedy-102",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kaminer-inside-108",
+    "categories": [
+      "documentary",
+      "reportage",
+      "travel_nature",
+      "culture",
+      "comedy"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kann-ich-mit-ki-118",
+    "categories": ["knowledge", "documentary", "reportage", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omflmtflmzmymjc2yzkymjc-148",
+    "categories": ["talkshow", "society", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:karen-pirie-echo-einer-mordnacht-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:katharina-tempel-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje1y2njytjmn2qwztbizjk-152",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kidnapped-the-chloe-ayling-story-100",
+    "categories": ["series", "film", "crime", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kiezkaempfer-max-coga-weg-zum-double-champ-102",
+    "categories": ["documentary", "reportage", "sports", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:killing-eve-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdftivi-fuer-kinder-100",
+    "categories": ["kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:klassixs-102",
+    "categories": ["film", "culture", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:klincus-104",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:sarah-kohr-108",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kontext-102",
+    "categories": ["news", "knowledge", "magazine", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfiy2u4n2eyywu2mme4odc-150",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:konzerte-und-festivals-102",
+    "categories": ["music", "culture", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kreuzfahrt-ins-glueck-120",
+    "categories": ["series", "travel_nature", "film"]
+  },
+  {"urn": "urn:mediathek:zdf:program:kudamm-104", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:kuechenclash-100",
+    "categories": ["food_cooking", "show", "lifestyle", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kulturdoku-100",
+    "categories": ["documentary", "culture", "music"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kulturplatz-102",
+    "categories": ["culture", "magazine", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:kulturzeit-324",
+    "categories": ["culture", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:funk-collection-funk-11090-442",
+    "categories": ["knowledge", "kids", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojc3m2iynzk2yjvkmwiznji-142",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:laim-und-102",
+    "categories": ["series", "crime", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:laenderspiegel-104",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:markus-lanz-114",
+    "categories": ["talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lass-dich-ueberwachen-104",
+    "categories": ["show", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lassie-100",
+    "categories": ["kids", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:leben-ist-mehr-104",
+    "categories": ["reportage", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:leidenschaft-alter-108",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:leider-lustig-100",
+    "categories": ["comedy", "show", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lenas-hof-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lena-lorenz-104",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:terra-x-harald-lesch-102",
+    "categories": ["knowledge", "documentary", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:leschs-kosmos-120",
+    "categories": ["knowledge", "magazine", "show", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lesch-sieht-schwartz-102",
+    "categories": ["talkshow", "society", "knowledge", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:letzte-spur-berlin-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:liebe-jetzt-102",
+    "categories": ["series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lieselotte-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:like-a-loser-100",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lillys-verschwinden-102",
+    "categories": ["crime", "series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:literaturclub-102",
+    "categories": ["talkshow", "magazine", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:radikalisiert-mit-sascha-lobo-102",
+    "categories": ["documentary", "reportage", "society", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:logo-sendungen-100",
+    "categories": ["news", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:logonewsdate-102",
+    "categories": ["kids", "news", "talkshow", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:lotto-ziehung-am-mittwoch-106",
+    "categories": ["show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:love-hunters-102",
+    "categories": ["show", "reportage", "documentary", "society", "lifestyle"]
+  },
+  {"urn": "urn:mediathek:zdf:program:love-sucks-100", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:loving-her-102",
+    "categories": ["series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:loewenzahn-mit-fritz-fuchs-100",
+    "categories": ["kids", "knowledge", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:loewenzahn-mit-peter-lustig-104",
+    "categories": ["kids", "knowledge", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:loewenzaehnchen-122",
+    "categories": ["kids", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oju3oddhowy3owrmn2e0ywi-136",
+    "categories": ["magazine", "lifestyle", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdf-magazin-royale-102",
+    "name": "ZDF Magazin Royale - Late Night mit Jan Böhmermann",
+    "categories": ["comedy", "show", "society"],
+    "synonyms": ["zdf magazin royale"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:magic-moves-102",
+    "categories": ["kids", "show", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mainzelmaennchen-108",
+    "categories": ["kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mainzer-stadtschreiber-104",
+    "categories": ["culture", "documentary", "show", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omu3mdnmmwnlzjfmmtjkngy-180",
+    "categories": ["talkshow", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mai-think-x-die-show-102",
+    "categories": ["knowledge", "show", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:make-love-106",
+    "categories": [
+      "knowledge",
+      "lifestyle",
+      "society",
+      "documentary",
+      "talkshow"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:makro-102",
+    "categories": ["magazine", "documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:the-mallorca-files-102",
+    "categories": ["series", "crime", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:man-of-the-ocean-102",
+    "categories": ["documentary", "sports", "travel_nature", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzmodi2n2vmodqxn2jlzdq-216",
+    "categories": ["documentary", "reportage", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:marie-brand-und-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:marie-faengt-feuer-122",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:masterclass-100",
+    "categories": ["talkshow", "documentary", "culture", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:maulwurf-moley-102",
+    "categories": ["kids", "series"]
+  },
+  {"urn": "urn:mediathek:zdf:program:maxima-126", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:meckern-und-machen-mitten-in-gera-100",
+    "categories": ["documentary", "reportage", "society", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:medien-verstehen-102",
+    "categories": ["knowledge", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:megacitys-wenn-es-nacht-wird-in-chongqing-mexico-city-lagos-100",
+    "categories": ["documentary", "travel_nature", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:meine-freundin-conni-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojuxntq4mduwy2m3nzkwnwm-740",
+    "categories": ["show", "knowledge", "lifestyle", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mein-zuhause-richtig-schoen-104",
+    "categories": ["lifestyle", "reportage", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:merz-gegen-merz-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mia-and-me-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:minus-drei-und-die-wilde-lucy-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:missing-lisa-102",
+    "categories": ["series", "crime", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mit-herz-und-holly-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdf-mittagsmagazin-104",
+    "categories": ["news", "magazine", "sports", "culture", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojmxngiynmnmztm2nde0n2u-170",
+    "categories": ["documentary", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:moin-piet-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:momente-der-geschichte-112",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhknzg2ntjlztg4nzy5mmm-140",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mood-102",
+    "categories": ["series", "society", "music"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mord-im-mittsommer-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojdiytaxzdkwyzy5ntk5nji-146",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojjmotc5mthlodm2njbmnzc-206",
+    "categories": ["series", "crime", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mordsschwestern-verbrechen-ist-familiensache-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdf-morgenmagazin-104",
+    "categories": ["news", "magazine", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:funk-collection-funk-8423-1-100",
+    "categories": ["knowledge", "news", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mumintal-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:muenchen-mord-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:mystic-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:nachtschicht-138",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojkynjy2mdc3ownjnwixnwi-162",
+    "categories": ["documentary", "reportage", "crime", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:naechste-ausfahrt-glueck-106",
+    "categories": ["series", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:nano-722",
+    "categories": ["magazine", "documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojnimtrizmzkowixzgnkowe-124",
+    "categories": ["documentary", "crime", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oji0zddjzdiwotzkmdhiyju-190",
+    "categories": ["talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:neben-der-spur-114",
+    "categories": ["series", "crime", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:neo-ragazzi-102",
+    "categories": ["talkshow", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:neo-tropic-tonight-100",
+    "categories": ["show", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:neuer-wind-im-alten-land-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhjnzm0mdrlzdi5otzmzdg-212",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:nicht-nachmachen-126",
+    "categories": ["knowledge", "show", "comedy", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:no-more-boys-and-girls-102",
+    "categories": ["documentary", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojrhn2yxnti0ndgwzdm1mgq-228",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:nordholm-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:nord-nord-mord-138",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:northern-lights-100",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:notruf-hafenkante-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvmzwiznwm0m2rlzju2ndu-162",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:oktoberfest-das-groesste-volksfest-der-welt-100",
+    "categories": ["documentary", "series", "culture", "lifestyle", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:oliver-maass-102",
+    "categories": ["kids", "series", "music"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:on-deck-ausbildung-auf-dem-meer-100",
+    "categories": ["documentary", "reportage", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:operation-omerta-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ostfriesenkrimis-100",
+    "categories": ["series", "crime", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:otto-die-kultfilme-102",
+    "categories": ["film", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:oxen-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omu4ztyxnmu3ntvizju5y2i-136",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:paris-has-fallen-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:patrik-pacard-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zur-person-196",
+    "categories": ["talkshow", "culture", "society", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:peter-pan-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:petronella-apfelmus-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pinocchio-im-zauberdorf-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pip-und-posy-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pirate-academy-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:plan-b-104",
+    "categories": ["documentary", "reportage", "society", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:planet-e-106",
+    "categories": ["documentary", "travel_nature", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojjhmgy4nzrkotq2nznhyti-204",
+    "categories": ["knowledge", "kids", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omy1ztgzywzlyjc3mdjknje-182",
+    "categories": ["knowledge", "magazine", "show", "travel_nature", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omqxnmi0yzdjmdnimwfjmtu-160",
+    "categories": ["magazine", "lifestyle", "news", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:politbarometer-344",
+    "categories": ["news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:politik-und-gesellschaft-102",
+    "categories": ["talkshow", "documentary", "reportage", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojqxmzc1njhmyjrizgninwe-214",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pop-around-bauhaus-104",
+    "categories": ["music", "culture", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pop-around-the-clock-106",
+    "categories": ["music", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pratersterne-110",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojywogjjm2yzm2i4ota0ywe-174",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:precht-104",
+    "categories": ["talkshow", "society", "knowledge", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzjota5n2fmmti5mjfiogi-158",
+    "categories": ["talkshow", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:princess-of-science-100",
+    "categories": ["knowledge", "show", "reportage", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pumpen-102",
+    "categories": ["series", "comedy", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:purplus-100",
+    "categories": ["knowledge", "magazine", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:push-102",
+    "categories": ["series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:putins-krieger-112",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:putins-schattenkrieg-102",
+    "categories": ["documentary", "reportage", "crime", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:queenstown-murders-zum-sterben-schoen-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:queer-life-unfiltered-100",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rabenmuetter-oder-super-moms-102",
+    "categories": ["documentary", "talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuxyzc1nzrinjbknwm4mdq-172",
+    "categories": ["reportage", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:bares-fuer-rares-104",
+    "categories": ["show", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ready-daddy-go-102",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rec-110",
+    "categories": ["reportage", "documentary", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rechtsanwalt-vernau-104",
+    "categories": ["series", "crime", "film"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ome3nzhjytkzytfhntm0zje-142",
+    "categories": ["documentary", "crime", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oja5mgfimmrlymfjzgmymgq-136",
+    "categories": ["travel_nature", "documentary", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdf-reportage-104",
+    "categories": ["reportage", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:reporter-122",
+    "categories": ["reportage", "society", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfizjfhntdmogvimmjhmtk-134",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojc3ztyzmwexywe1mzewyty-154",
+    "categories": ["magazine", "news", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rettung-alpen-schnee-bergretter-bergdoktor-rettung-100",
+    "categories": ["documentary", "reportage", "travel_nature", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rettungsflieger-wenn-minuten-entscheiden-100",
+    "categories": ["documentary", "reportage", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:ritter-rost-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:robin-hood-140",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rolemodels-102",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:the-rookie-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rosamunde-pilcher-128",
+    "categories": ["film", "series", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojrjotnizjkwzdg2ngqzn2i-284",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rudis-rabenteuer-104",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rudis-rasselbande-108",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:rudis-siebenstein-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:sags-mir-102",
+    "categories": ["talkshow", "society"]
+  },
+  {"urn": "urn:mediathek:zdf:program:sløborn-102", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:soko-hamburg-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-kitzbuehel-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-koeln-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-leipzig-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-linz-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-muenchen-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-potsdam-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-stuttgart-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-wien-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soko-wismar-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:soll-ich-102",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:solo-fuer-weiss-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:sonnenallee-102",
+    "categories": ["documentary", "reportage", "society", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:sonntags-224",
+    "categories": ["magazine", "society", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:spaeti-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:spellbound-102",
+    "categories": ["kids", "series", "culture"]
+  },
+  {"urn": "urn:mediathek:zdf:program:zdfspezial-128", "categories": ["news"]},
+  {"urn": "urn:mediathek:zdf:program:spielfilm-104", "categories": ["film"]},
+  {
+    "urn": "urn:mediathek:zdf:program:spreewaldkrimi-110",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:der-staatsanwalt-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:stadt-land-lecker-148",
+    "categories": ["show", "lifestyle", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:standpunkte-104",
+    "categories": ["reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:stark-108",
+    "categories": ["kids", "documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:start-the-fck-up-102",
+    "categories": ["series", "comedy", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:stay-live-102",
+    "categories": ["music", "show", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:sternstunde-philosophie-102",
+    "categories": ["talkshow", "society", "knowledge", "culture"]
+  },
+  {"urn": "urn:mediathek:zdf:program:stoeckl-106", "categories": ["talkshow"]},
+  {
+    "urn": "urn:mediathek:zdf:program:stralsund-108",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ommwndrlnzbimgzkzdfknmu-142",
+    "categories": ["talkshow", "comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:stubbe-von-fall-zu-fall-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:studio-schmitt-102",
+    "categories": ["show", "comedy", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhmn2m1yjm1mdnmmjnmndq-302",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:superhero-academy-102",
+    "categories": ["kids", "show", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojazzdg0ywrjzwq0nzk5ntg-122",
+    "categories": ["knowledge", "documentary", "lifestyle"]
+  },
+  {"urn": "urn:mediathek:zdf:program:survivors-100", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:zdf:program:suesser-rausch-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tabula-rasa-110",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1042",
+    "categories": ["news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzlmtk1yzc4mgi1njnhngq-186",
+    "categories": ["news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:takeover-drei-tage-raus-102",
+    "categories": ["show", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tanoshii-102",
+    "categories": ["kids", "magazine", "show", "culture", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oji0ytqxodqzy2q5mtlmyjg-764",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tatort-israel-102",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tatort-syrien-100",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:taunuskrimi-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:taylors-welt-der-tiere-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omiyzwq2ntfjnjc0ndaxnme-124",
+    "categories": ["documentary", "music", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:terra-xpress-216",
+    "categories": ["magazine", "reportage", "knowledge", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:theater-und-tanz-102",
+    "categories": ["culture", "documentary", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:the-chelsea-detective-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:the-gymnasts-100",
+    "categories": ["series", "sports", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:theodosia-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:the-perfect-mother-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:the-tourist-110",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:theresa-wolff-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:basketball-nba-orlando-magic-moritz-franz-wagner-brothers-doku-100",
+    "categories": ["sports", "documentary", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:they-were-ten-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:this-is-going-to-hurt-100",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:this-is-gonna-be-great-102",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje3y2ywodc2ndcyotgzoty-762",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje5ndq3yzdjy2njztrmzme-178",
+    "categories": ["culture", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:till-reiners-happy-hour-102",
+    "categories": ["comedy", "show", "music"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tim-und-struppi-108",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tobie-lolness-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxyta4nzq3zju3m2ewztq-128",
+    "categories": ["knowledge", "show", "magazine", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:toertel-106",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:trending-102",
+    "categories": ["reportage", "documentary", "society", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:1000-tricks-102",
+    "categories": ["kids", "show", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tru-doku-106",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tru-stories-104",
+    "categories": ["reportage", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:true-cost-100",
+    "categories": [
+      "documentary",
+      "reportage",
+      "lifestyle",
+      "knowledge",
+      "society"
+    ]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:tschappel-100",
+    "categories": ["series", "film", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:twisted-metal-100",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:uefa-champions-league-live-stream-highlights-100",
+    "categories": ["sports"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:unbroken-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:uncivilized-102",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:undercover-114",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:unter-anderen-umstaenden-210",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:verheiratet-geschieden-single-102",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxogjhztkymzmxzjzjodg-158",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:vienna-blood-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfkowm5ytk0nmqzmtdjzti-168",
+    "categories": ["magazine", "knowledge", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje4zjbimgrlywjkzgq1nwe-132",
+    "categories": ["reportage", "documentary", "news", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:volle-kanne-104",
+    "categories": ["magazine", "lifestyle", "talkshow", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:voll-psychologisch-show-mit-dr-leon-windscheid-102",
+    "categories": ["knowledge", "show", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omywodm2nwrmytc2njq0yjk-124",
+    "categories": ["knowledge", "magazine", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:true-crime-ermittler-spektakulaere-kriminalfaelle-100",
+    "categories": ["crime", "documentary", "series", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:waldis-welt-100",
+    "categories": ["reportage", "lifestyle", "comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:was-nun-102",
+    "categories": ["talkshow", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:was-wir-fuerchten-100",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:was-gibt-es-neues-104",
+    "categories": ["comedy", "show", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:weckschreck-102",
+    "categories": ["kids", "series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:weihnachten-106",
+    "categories": ["film", "music", "kids", "series", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:welke-und-pastewka-102",
+    "categories": ["comedy", "show", "culture", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuznta1owywzwi4nzuynme-160",
+    "categories": ["reportage", "magazine", "news", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wendland-104",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:were-on-it-comrades-100",
+    "categories": ["series", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxmmrhywmyody0ogiyzte-688",
+    "categories": ["show", "knowledge", "comedy"]
+  },
+  {"urn": "urn:mediathek:zdf:program:wetten-dass-104", "categories": ["show"]},
+  {"urn": "urn:mediathek:zdf:program:wetter-386", "categories": ["news"]},
+  {
+    "urn": "urn:mediathek:zdf:program:terra-x-wettlauf-um-die-welt-102",
+    "categories": ["show", "travel_nature", "documentary", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wickie-und-die-starken-maenner-106",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzjmwe3mzyyoge1ztnjnmu-126",
+    "categories": ["documentary", "society", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wie-lange-ist-fuer-immer-102",
+    "categories": ["documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wilsberg-108",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wir-sind-die-dorfbande-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wir-sind-die-meiers-112",
+    "categories": ["series", "comedy", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wir-wollen-ein-baby-100",
+    "categories": ["documentary", "reportage", "series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wiso-104",
+    "categories": ["magazine", "lifestyle", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wohne-meinen-traum-102",
+    "categories": ["lifestyle", "show", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzingnmzgyxnjqyngmznwy-162",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wovon-traeumst-du-102",
+    "categories": ["show", "reportage", "society", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wtf-is-jule-100",
+    "categories": ["series", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:wuffel-der-wunderhund-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:terra-xplore-106",
+    "categories": ["knowledge", "reportage", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojaxyjq1mjk2yzqwnmfmotq-112",
+    "categories": ["reportage", "documentary", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:xy-geloest-106",
+    "categories": ["crime", "documentary", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:xy-history-102",
+    "categories": ["crime", "documentary", "knowledge", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyymdlinwfizdg4nme3ywm-194",
+    "categories": ["reportage", "society", "documentary", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ommwmzljowyxzmq1otdkyjq-126",
+    "categories": ["kids", "travel_nature", "documentary", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zacki-und-die-zoobande-102",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojnjymjmndg2y2fjmze0ode-144",
+    "categories": ["magazine", "news", "knowledge", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:pop-around-bauhaus-100",
+    "categories": ["music", "culture", "show"]
+  },
+  {"urn": "urn:mediathek:zdf:program:zdfchen-100", "categories": ["kids"]},
+  {
+    "urn": "urn:mediathek:zdf:program:zdf-goes-schule-106",
+    "categories": ["knowledge", "kids", "documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdf-info-100",
+    "categories": ["documentary"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdfzeit-106",
+    "categories": ["documentary", "knowledge", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zdfzoom-110",
+    "categories": ["reportage", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zeitreise-bilder-aus-60-jahren-102",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zeugen-des-jahrhunderts-120",
+    "categories": ["talkshow", "documentary", "knowledge", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zoom-der-weisse-delfin-100",
+    "categories": ["kids", "series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:zwei-muenchner-in-hamburg-102",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:1-2-oder-3-120",
+    "categories": ["kids", "show", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxzmu4otljyti3mda0mdu-170",
+    "categories": ["talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:3sat-festival-102",
+    "categories": ["show", "comedy", "music", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:3sat-dokus-104",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:13-fragen-102",
+    "categories": ["talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:37-grad-104",
+    "categories": ["reportage", "documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:37-grad-leben-102",
+    "categories": ["reportage", "documentary", "society", "kids"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojk1yjy5zwe5zdq4ntm5yzk-162",
+    "categories": ["reportage", "documentary", "society", "news"]
+  },
+  {
+    "urn": "urn:mediathek:zdf:program:terra-x-112",
+    "categories": ["documentary", "knowledge"]
+  }
+]

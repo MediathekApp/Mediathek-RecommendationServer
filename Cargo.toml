@@ -1,0 +1,16 @@
+[package]
+name = "mediathek_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ahash = "0.8.12" # Faster hash function
+serde = { version = "1.0", features = ["derive"] } # For serializing/deserializing JSON
+serde_json = "1.0" # For working with JSON
+
+# Actix Web dependencies
+actix-web = "4" # Latest stable version of actix-web
+actix-rt = "2" # Runtime for Actix Web
+
+chrono = { version = "0.4", features = ["serde"] } # For date/time handling
+tokio = "1.45.1"

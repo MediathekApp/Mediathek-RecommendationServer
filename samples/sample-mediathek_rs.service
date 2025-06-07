@@ -1,0 +1,16 @@
+# -> /etc/systemd/system/mediathek_rs.service
+
+[Unit]
+Description=Mediathek Recommendation Server
+After=network.target
+
+[Service]
+ExecStart=/repo/Mediathek-RecommendationServer/target/release/mediathek_rs 8188
+WorkingDirectory=/repo/Mediathek-RecommendationServer/
+Restart=on-failure
+RestartSec=5
+#User=username
+Environment=RUST_LOG=info
+
+[Install]
+WantedBy=multi-user.target

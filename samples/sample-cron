@@ -1,0 +1,2 @@
+# Build recommendations every 30 minutes:
+*/30 * * * * /usr/bin/python3 /repo/Mediathek-RecommendationServer/recommendation_builder/main.py > /dev/null 2>&1

@@ -1,0 +1,511 @@
+[
+  {
+    "urn": "urn:mediathek:3sat:program:ab-18-100",
+    "categories": ["documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:alpenpanorama-100",
+    "categories": ["travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:die-anstalt-168",
+    "categories": ["comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:america-lets-talk-102",
+    "categories": ["reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:aspekte-102",
+    "categories": ["culture", "magazine", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:asuel-fuer-alle-108",
+    "categories": ["comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:auf-den-schienen-des-doppeladlers-114",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:auslandsjournal-extra-100",
+    "categories": ["reportage", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:aussenperspektiven-106",
+    "categories": ["reportage"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:berlinale-100",
+    "categories": ["culture", "film"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:bilder-aus-suedtirol-100",
+    "categories": ["reportage", "culture", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:bosetti-late-night-100",
+    "categories": ["comedy", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:buchmesse-100",
+    "categories": ["culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:buchzeit-120",
+    "categories": ["culture", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:comedy-for-europe-108",
+    "categories": ["comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:da-will-ich-hin-102",
+    "categories": ["travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:das-geheimnis-der-meister-104",
+    "categories": ["documentary", "culture", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:das-literarische-quartett-108",
+    "categories": ["culture", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:der-aequator-breitengrad-der-extreme-108",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:der-deutsche-fernsehpreis-100",
+    "categories": ["show", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:der-geschmack-europas-100",
+    "categories": ["travel_nature", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:der-sagenjaeger-102",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:der-zdf-comedy-sommer-102",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:die-grossen-frauen-der-kunst-108",
+    "categories": ["documentary", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:docume-106",
+    "categories": ["documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:dokumentarfilm-100",
+    "categories": ["documentary"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:dokumentarfilmzeit-100",
+    "categories": ["documentary"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:geschichte-100",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:natur-100",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:reise-100",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:komplette-reihen-100",
+    "categories": ["documentary"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:tiere-100",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:druckfrisch-142",
+    "categories": ["culture", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:einfach-mensch-106",
+    "categories": ["documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:ella-schoen-100",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:erlesen-106",
+    "categories": ["culture", "magazine", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:esskulturen-102",
+    "categories": ["lifestyle", "travel_nature"]
+  },
+  {"urn": "urn:mediathek:3sat:program:fernsehfilm-100", "categories": ["film"]},
+  {
+    "urn": "urn:mediathek:3sat:program:freizeit-110",
+    "categories": ["magazine", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:geraubte-schaetze-112",
+    "categories": ["documentary", "culture", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:geschichte-100",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:gestern-waren-wir-noch-kinder-104",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:gute-unterhaltung-108",
+    "categories": ["show", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:harter-brocken-122",
+    "categories": ["crime", "film"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:hessen-a-la-carte-134",
+    "categories": ["lifestyle", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:im-netz-der-camorra-112",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kabarett-aus-franken-144",
+    "categories": ["comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kafka-114",
+    "categories": ["series", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:katie-fforde-100",
+    "categories": ["film"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kaminer-inside-100",
+    "categories": ["reportage", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kann-ich-mit-ki-102",
+    "categories": ["documentary", "knowledge", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kinokino-100",
+    "categories": ["magazine", "film", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:klassixs-100",
+    "categories": ["film", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:klosterkueche-106",
+    "categories": ["lifestyle", "travel_nature"]
+  },
+  {"urn": "urn:mediathek:3sat:program:kroymann-114", "categories": ["comedy"]},
+  {
+    "urn": "urn:mediathek:3sat:program:kulturdoku-100",
+    "categories": ["documentary", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kulturplatz-114",
+    "categories": ["magazine", "culture", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kulturzeit-100",
+    "categories": ["magazine", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:kunst-und-krempel-100",
+    "categories": ["culture", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:laendermagazin-100",
+    "categories": ["magazine", "reportage"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:lederstrumpf-114",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:liebes-tagebuch-106",
+    "categories": ["show", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:literaturclub-176",
+    "categories": ["culture", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:literatur-to-go-102",
+    "categories": ["culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:makro-100",
+    "categories": ["documentary", "knowledge", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:maria-wern-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:marie-faengt-feuer-116",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:mit-herz-am-herd-140",
+    "categories": ["lifestyle", "food_cooking"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:mitternachtsspitzen-114",
+    "categories": ["comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:morgen-hoer-ich-auf-106",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:museumscheck-100",
+    "categories": ["culture", "knowledge"]
+  },
+  {"urn": "urn:mediathek:3sat:program:musik-100", "categories": ["music"]},
+  {
+    "urn": "urn:mediathek:3sat:program:nano-100",
+    "categories": ["knowledge", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:natur-100",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:natur-im-garten-176",
+    "categories": ["lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:philosophisches-kopfkino-102",
+    "categories": ["knowledge", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:politik-und-gesellschaft-100",
+    "categories": ["talkshow", "documentary", "reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:pop-around-bauhaus-104",
+    "categories": ["music", "show"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:pop-around-the-clock-100",
+    "categories": ["music"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:pratersterne-100",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:praxis-mit-meerblick-104",
+    "categories": ["series"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:puzzle-106",
+    "categories": ["reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:quer-100",
+    "categories": ["comedy", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:querbeet-108",
+    "categories": ["lifestyle", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:rabiat-102",
+    "categories": ["reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:rec-100",
+    "categories": ["reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:rechtsanwalt-vernau-100",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:reise-100",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:reporter-100",
+    "categories": ["reportage"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:rockpalast-crossroads-176",
+    "categories": ["music", "show"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:rundschau-100",
+    "categories": ["reportage", "magazine", "news"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:schaetze-der-welt-100",
+    "categories": ["documentary", "travel_nature", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:schlachthof-kabarett-muenchen-100",
+    "categories": ["comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:schuld-100",
+    "categories": ["series", "crime", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:schwarzach-23-106",
+    "categories": ["series", "crime", "comedy"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:schweizweit-100",
+    "categories": ["reportage", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:science-dates-102",
+    "categories": ["knowledge", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:science-talk-100",
+    "categories": ["knowledge", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:scobel-100",
+    "categories": ["knowledge", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:seenland-oesterreich-106",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:sehen-statt-hoeren-108",
+    "categories": ["documentary", "society"]
+  },
+  {"urn": "urn:mediathek:3sat:program:serien-100", "categories": ["series"]},
+  {
+    "urn": "urn:mediathek:3sat:program:servicezeit-100",
+    "categories": ["lifestyle", "magazine"]
+  },
+  {"urn": "urn:mediathek:3sat:program:spielfilm-100", "categories": ["film"]},
+  {
+    "urn": "urn:mediathek:3sat:program:starke-stuecke-106",
+    "categories": ["culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:sternstunde-philosophie-100",
+    "categories": ["knowledge", "society", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:stoeckl-100",
+    "categories": ["talkshow", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:stolperstein-112",
+    "categories": ["documentary", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:tage-der-deutschsprachigen-literatur-110",
+    "categories": ["culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:taunuskrimi-102",
+    "categories": ["series", "crime"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:terra-x-102",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:zdf-history-102",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:theater-und-tanz-100",
+    "categories": ["culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:the-true-story-of-100",
+    "categories": ["documentary", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:tiere-100",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:till-reiners-happy-hour-110",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:trailer-park-102",
+    "categories": ["culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:unkraut-sendung-100",
+    "categories": ["lifestyle", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:was-gibt-es-neues-144",
+    "categories": ["comedy", "show"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:wasserwunderwelt-schweiz-114",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:wiener-stadtansichten-106",
+    "categories": ["documentary", "travel_nature"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:wissen-aktuell-100",
+    "categories": ["knowledge", "news"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:wissenhoch2-110",
+    "categories": ["knowledge", "documentary", "talkshow"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:wissenschaftsdoku-100",
+    "categories": ["documentary", "knowledge"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:zdf-reportage-110",
+    "categories": ["reportage"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:zib-100",
+    "categories": ["news", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:zu-tisch-100",
+    "categories": ["travel_nature", "lifestyle"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:10-vor-10-100",
+    "categories": ["news", "magazine"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:3satfestival-100",
+    "categories": ["show", "comedy", "culture"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:37-grad-102",
+    "categories": ["reportage", "society"]
+  },
+  {
+    "urn": "urn:mediathek:3sat:program:37-grad-leben-100",
+    "categories": ["reportage", "society"]
+  }
+]
