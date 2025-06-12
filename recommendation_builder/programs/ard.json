@@ -1715,11 +1715,6 @@
     "categories": []
   },
   {
-    "name": "BR24Sport · Die Heimat des bayerischen Sports",
-    "urn": "urn:mediathek:ard:program:1fd2e19a-e90e-4550-b309-bc14aa05b654",
-    "categories": ["sports"]
-  },
-  {
     "name": "BR24 vor Ort",
     "urn": "urn:mediathek:ard:program:Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9icjI0LXZvci1vcnQ",
     "categories": []
@@ -1928,11 +1923,6 @@
     "name": "Bundestag live",
     "urn": "urn:mediathek:ard:program:Y3JpZDovL2Rhc2Vyc3RlLmRlL2J1bmRlc3RhZyBsaXZl",
     "categories": []
-  },
-  {
-    "name": "Bundestagswahl 2025 · Alle Dokus, Talks und News",
-    "urn": "urn:mediathek:ard:program:2bea5b62-b846-4906-b631-fd5f7241a238",
-    "categories": ["documentary", "talkshow"]
   },
   {
     "name": "Kandidaten-Check: Warum sollen wir Sie wählen?",
@@ -2162,11 +2152,6 @@
   {
     "name": "Simon Becketts: Die Chemie des Todes",
     "urn": "urn:mediathek:ard:program:Y3JpZDovL2Rhc2Vyc3RlLmRlL3NpbW9uLWJlY2tldHRzLWRpZS1jaGVtaWUtZGVzLXRvZGVz",
-    "categories": []
-  },
-  {
-    "name": "Chemnitz 2025: Kulturhauptstadt Europas",
-    "urn": "urn:mediathek:ard:program:9094699c-eccb-4e7c-9b59-7322f8ac6edf",
     "categories": []
   },
   {
@@ -4721,7 +4706,8 @@
   },
   {
     "name": "Einfach genial - Menschen. Ideen. Erfindungen",
-    "urn": "urn:mediathek:ard:program:49dd7cc4-38bb-4533-a986-4fd3400b6765",
+    "synonyms": ["Einfach genial"],
+    "urn": "urn:mediathek:ard:program:Y3JpZDovL21kci5kZS9zZW5kZXJlaWhlbi9iOGYxYTk2MS00NWQyLTQzMzItOGE1MS1kMzIxZTFhZTljNzQ",
     "categories": []
   },
   {
@@ -7230,16 +7216,6 @@
     "categories": []
   },
   {
-    "name": "Investigativ",
-    "urn": "urn:mediathek:ard:program:1a0ec204-48d5-45a6-b770-94eed6c06364",
-    "categories": []
-  },
-  {
-    "name": "Investigativ",
-    "urn": "urn:mediathek:ard:program:d08a2b5f-8133-4bdd-8ea9-64b6172ce5ee",
-    "categories": []
-  },
-  {
     "name": "In Weißenbach am Lech",
     "urn": "urn:mediathek:ard:program:Y3JpZDovLzNzYXQuZGUvU0NNU190cmFuc2Zlcl9TQ01TXzRmYTlkZWNjLTBhZjgtNDQxMC1iZDM1LTllYWVjNDY4NGQzNy1tb3ZpZQ",
     "categories": []
@@ -7792,12 +7768,12 @@
   {
     "name": "Klassik",
     "urn": "urn:mediathek:ard:program:5fssgSAcbRYV35OmPwINun",
-    "categories": ["culture"]
+    "categories": ["culture", "music"]
   },
   {
     "name": "Klassik",
-    "urn": "urn:mediathek:ard:program:55bd5fe6-c4eb-49fa-bc34-cb0867eb5a0c",
-    "categories": ["culture"]
+    "urn": "urn:mediathek:ard:program:Y3JpZDovL25kci5kZS80NDM4",
+    "categories": ["culture", "music"]
   },
   {
     "name": "Klassik am Odeonsplatz 2024 - Anne-Sophie Mutter und die Münchner Philharmoniker",
@@ -8132,11 +8108,6 @@
   {
     "name": "Kültür für Deutschland (zweisprachig abrufbar)",
     "urn": "urn:mediathek:ard:program:Y3JpZDovLzNzYXQuZGUvU0NNU190cmFuc2Zlcl9TQ01TXzMwNmZiNWVhLTc1ZmMtNDUzNi1iMmEwLWU3M2FmZmZiOWYwMy1tb3ZpZQ",
-    "categories": []
-  },
-  {
-    "name": "Chemnitz 2025: Kulturhauptstadt Europas",
-    "urn": "urn:mediathek:ard:program:9094699c-eccb-4e7c-9b59-7322f8ac6edf",
     "categories": []
   },
   {
@@ -9003,11 +8974,6 @@
     "name": "Mara besucht ihre Oma",
     "urn": "urn:mediathek:ard:program:Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtNTMyNjQ",
     "categories": ["kids"]
-  },
-  {
-    "name": "Märchen in der ARD | Romantische Schlösser, verwunschene Wälder, verzauberte Prinzen: Die schönsten Märchen in der ARD.",
-    "urn": "urn:mediathek:ard:program:1cc21ced-cc3a-4a6c-90a9-873da98d72a3",
-    "categories": []
   },
   {
     "name": "Märchen-Klassiker",
@@ -10308,11 +10274,6 @@
     "name": "Ökochecker",
     "urn": "urn:mediathek:ard:program:Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xMjMz",
     "categories": ["knowledge"]
-  },
-  {
-    "name": "Oktoberfest",
-    "urn": "urn:mediathek:ard:program:0440df10-707b-4154-a7d3-d32d20ecdfe9",
-    "categories": []
   },
   {
     "name": "Oktoberfest 1900",
@@ -12796,7 +12757,7 @@
   },
   {
     "name": "Gottesdienste",
-    "urn": "urn:mediathek:ard:program:3ad904d2-5af3-413a-b7b9-ee76424884ab",
+    "urn": "urn:mediathek:ard:program:Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9jNzE1MzA3ZS05OTRjLTQ3OTItYjY2ZS1mN2JjMmRhYjdmNjY",
     "categories": []
   },
   {
@@ -14911,7 +14872,7 @@
   },
   {
     "name": "Weltspiegel",
-    "urn": "urn:mediathek:ard:program:16770422-e131-43fb-85c3-8bb2c553ef6a",
+    "urn": "urn:mediathek:ard:program:Y3JpZDovL2Rhc2Vyc3RlLmRlL3dlbHRzcGllZ2Vs",
     "categories": []
   },
   {
@@ -15047,11 +15008,6 @@
   {
     "name": "Wiener Stadtansichten",
     "urn": "urn:mediathek:ard:program:Y3JpZDovLzNzYXQuZGUvU0NNU19iZGU3ZDU5ZC1hMzE3LTQ1Y2YtOWE0OC0yY2UzNDg2MTQ0MjI",
-    "categories": []
-  },
-  {
-    "name": "Oktoberfest",
-    "urn": "urn:mediathek:ard:program:0440df10-707b-4154-a7d3-d32d20ecdfe9",
     "categories": []
   },
   {

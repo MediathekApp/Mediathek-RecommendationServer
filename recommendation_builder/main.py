@@ -107,8 +107,12 @@ if do_aggregate_queries:
     aggregated_queries = []
     # Go through all queries
     for query in queries:
-        # Go through all programs_with_categories and see if their synonyms contain the query
-        matching_programs = [program for program in programs_with_categories if query.lower() in (syn.lower() for syn in program.get("synonyms", []))]
+        # Go through all programs_with_categories and see if either their synonyms contain the query or the query matches the program name (lowercased)
+        matching_programs = [
+            program for program in programs_with_categories
+            if query.lower() in (syn.lower() for syn in program.get("synonyms", [])) or
+               query.lower() == program.get("name", "").lower()
+        ]
         # Warn if there are multiple matches
         if len(matching_programs) > 1:
             print(f"⚠️ Warning: Multiple programs with synonyms found for query '{query}': {[program['urn'] for program in matching_programs]}")
