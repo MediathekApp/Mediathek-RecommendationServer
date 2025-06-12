@@ -114,6 +114,10 @@ if do_aggregate_queries:
             print(f"⚠️ Warning: Multiple programs with synonyms found for query '{query}': {[program['urn'] for program in matching_programs]}")
         # If there is a match and it has a name, use that as the query
         query = next((program["name"] for program in matching_programs if "name" in program), query)
+        # If that query already exists in the aggregated queries, skip it
+        if any(agg_query["query"] == query for agg_query in aggregated_queries):
+            print(f"Skipping already aggregated query: {query}")
+            continue
         # Add the query to the aggregated queries list
         aggregated_queries.append({
             "query": query,

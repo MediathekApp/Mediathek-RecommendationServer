@@ -163,6 +163,7 @@
   },
   {
     "name": "auslandsjournal - das Magazin",
+    "synonyms": ["auslandsjournal"],
     "description": "Die ZDF-Korrespondenten berichten aus aller Welt.",
     "urn": "urn:mediathek:zdf:program:auslandsjournal-138",
     "categories": ["news", "magazine", "reportage"]
