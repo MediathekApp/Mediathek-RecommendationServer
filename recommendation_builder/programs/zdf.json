@@ -66,12 +66,6 @@
     "categories": ["series"]
   },
   {
-    "name": "Almania",
-    "description": "Frank Stimpel (Phil Laude) ist im Glück: Er hat die Lehrerprüfung bestanden und startet voller Energie ins neue Schuljahr. Seine Freundin Lisa-Britt (Sina Tkotsch) ist nicht nur in seine WG eingezogen, sondern auch neues Mitglied im Kollegium.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojq0ywy1odawzty2yjm5njc-172",
-    "categories": ["series", "comedy"]
-  },
-  {
     "name": "Die Macht der Kränkung",
     "description": "Anthologie-Dramaserie über tief gekränkte Menschen",
     "urn": "urn:mediathek:zdf:program:am-anschlag-die-macht-der-kraenkung-102",
@@ -102,12 +96,6 @@
     "categories": ["series", "film", "culture"]
   },
   {
-    "name": "Anne Will",
-    "description": "Anne Will hat mit ihren Gästen über politische Prozesse, wirtschaftliche Zusammenhänge und gesellschaftliche Trends diskutiert – von 2007 bis 2023.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojblzda1ywm5mdg3mzzhmwq-146",
-    "categories": ["talkshow", "news", "society"]
-  },
-  {
     "name": "Annie",
     "description": "Von Patchwork bis Polyamorie: Annie setzt sich selbstlos und wagemutig aus Liebe über moralische Konventionen und gesellschaftliche Normen hinweg.",
     "urn": "urn:mediathek:zdf:program:annie-106",
@@ -136,18 +124,6 @@
     "description": "Menschenrechte oder Millionen? Anlässlich der umstrittensten Fußball-Weltmeisterschaft aller Zeiten reist die ZDF-Korrespondentin Golineh Atai in diesem Zweiteiler durch Arabien.",
     "urn": "urn:mediathek:zdf:program:arabiens-traum-von-der-zukunft-102",
     "categories": ["documentary", "reportage", "society", "news"]
-  },
-  {
-    "name": "ARD-Buffet",
-    "description": "Die unterhaltsame Ratgebersendung mit Koch- und Backrezepten, Hilfestellungen im Alltag und kreativen Ideen für zu Hause – „ARD-Buffet: leben und genießen!",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omvimji3mgewmwnimta0mwy-206",
-    "categories": ["magazine", "lifestyle"]
-  },
-  {
-    "name": "Asbest",
-    "description": "Neonleuchten statt Scheinwerferlicht, Knast statt Fußballstadion: Momo Kaval kann es nicht fassen! Für einen Raubüberfall, an dem er mit seinen kriminellen Cousins beteiligt war, wird er als einziger verhaftet.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuxngjkodfkyza4ztu0mza-138",
-    "categories": ["series", "crime", "film"]
   },
   {
     "name": "Aschenberg",
@@ -202,18 +178,6 @@
     "description": "KorrespondentInnen-Geschichten aus der Schweiz",
     "urn": "urn:mediathek:zdf:program:aussenperspektiven-110",
     "categories": ["reportage", "news", "society"]
-  },
-  {
-    "name": "Axel Wagner und die Klimakrise",
-    "description": "Artensterben, Starkregen, Gluthitze, … - Wissenschaftsjournalist und Biologe Axel Wagner zeigt mit eindrucksvollen Filmaufnahmen, wie sich unsere Umwelt verändert und erklärt, was wir tun können, um die dramatischen Folgen der Klimakrise noch...",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojy1odgznjeynde5otuxmdq-140",
-    "categories": ["documentary", "knowledge", "travel_nature", "reportage"]
-  },
-  {
-    "name": "Babylon Berlin",
-    "description": "BABYLON BERLIN präsentiert das ganze Panoptikum der aufregendsten Stadt der Welt zwischen Drogen und Politik, Mord und Kunst, Emanzipation und Extremismus.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omvmzje3nteymtu3oda5y2e-124",
-    "categories": ["series", "crime", "history"]
   },
   {
     "name": "Backstage",
@@ -288,34 +252,16 @@
     "categories": ["series"]
   },
   {
-    "name": "Bergfreundinnen",
-    "description": "Toni, Kaddi und Lisa lieben Berge und das Draußensein. Ständig zieht es die drei hinaus und hinauf. Wenn sie nicht gerade die Alpen überqueren oder auf Bikepacking-Tour sind, dann reden sie darüber in ihrem Podcast \"Bergfreundinnen\".",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojbjnte1ymnhzdg2ztfhzdk-162",
-    "categories": ["reportage", "travel_nature", "lifestyle", "society"]
-  },
-  {
     "name": "Die Bergretter",
     "description": "Actionreiche und spannende Geschichten in Ramsau am Dachstein. ",
     "urn": "urn:mediathek:zdf:program:die-bergretter-104",
     "categories": ["series", "travel_nature"]
   },
   {
-    "name": "Bericht aus Berlin",
-    "description": "Hintergründe, Berichte und Reportagen aus dem ARD-Hauptstadtstudio.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje3njg1nmmzztexzjqxogi-182",
-    "categories": ["news", "magazine", "reportage"]
-  },
-  {
     "name": "Berlin direkt",
     "description": "Berlin direkt - das politische Magazin aus der Hauptstadt",
     "urn": "urn:mediathek:zdf:program:berlin-direkt-104",
     "categories": ["news", "magazine"]
-  },
-  {
-    "name": "Berlin ‧ Schicksalsjahre einer Stadt",
-    "description": "Eine Berlin-Chronik der Superlative: von 1945 – 2019. Die einzigartige Doku-Reihe über die Nachkriegszeit, Mauerbau und Zeit der Teilung, Fall der Mauer bis in die Gegenwart, der Hauptstadt des vereinten Deutschlands.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oja4ntcwmjqzzwzmmdvhmmi-126",
-    "categories": ["documentary", "knowledge"]
   },
   {
     "name": "Berlin und wir!",
@@ -328,12 +274,6 @@
     "description": "In der Doku-Reihe B/esser zeigen Sternekoch Nelson Müller und Food-Experte Sebastian Lege, was in welchem Essen steckt und wie es hergestellt wird.",
     "urn": "urn:mediathek:zdf:program:zdfbesseresser-100",
     "categories": ["documentary", "knowledge", "lifestyle", "reportage"]
-  },
-  {
-    "name": "betrifft: ...",
-    "description": "Spannende und gut recherchierte Dokumentationen zu Themen, die betreffen. Jeder Film erzählt die Geschichte interessanter Menschen nah und emotional.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omu5mzyxndi0zgfimzkwzjc-136",
-    "categories": ["documentary", "reportage", "society"]
   },
   {
     "name": "Bettys Diagnose",
@@ -432,12 +372,6 @@
     "categories": ["comedy", "show", "talkshow"]
   },
   {
-    "name": "BRISANT",
-    "description": "BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyzztm5zde0mdi3mtlmyzy-1006",
-    "categories": ["magazine", "news", "lifestyle", "reportage"]
-  },
-  {
     "name": "Browser Ballett",
     "description": "Das Satire-Kollektiv und offizielle deutsche Organ der Gegenwartsbewältigung. ",
     "urn": "urn:mediathek:zdf:program:browser-ballett-100",
@@ -474,12 +408,6 @@
     "categories": ["series", "crime"]
   },
   {
-    "name": "Chez Krömer",
-    "description": "Chez Krömer - die Show von und mit Kurt Krömer und einigen Gästen, die nichts Besseres verdient haben.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojm0nmnmntbimzgwntixmte-170",
-    "categories": ["comedy", "talkshow", "show"]
-  },
-  {
     "name": "Clashing Differences",
     "description": "Alle Folgen der satirischen Mini-Serie über die Welt feministisch aktiver Personen.",
     "urn": "urn:mediathek:zdf:program:clashing-differences-102",
@@ -514,12 +442,6 @@
     "description": "Fesselnde Thriller-Serie über Terrorgefahr in Europa",
     "urn": "urn:mediathek:zdf:program:countdown-copenhagen-102",
     "categories": ["series", "crime"]
-  },
-  {
-    "name": "ARD Crime Time",
-    "description": "In ARD Crime Time erzählen Staatsanwaltschaft, Rechtsmedizin, Polizei und Profiler*innen von Fällen, die sie so schnell nicht vergessen. Wie schaffen sie es, die Täter*innen zu überführen? Wie ticken echte Mörder*innen?",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojcxnzi1zwe5zddhyjuyndk-324",
-    "categories": ["crime", "documentary", "reportage"]
   },
   {
     "name": "Crossfire - Tod in der Sonne",
@@ -660,12 +582,6 @@
     "categories": ["series", "crime"]
   },
   {
-    "name": "deep und deutlich",
-    "description": "How deep is your life? Bei uns erzählen Stars und inspirierende Menschen ihre Geschichten. Die Gespräche führen Aminata Belli, Lola Weippert und Michel Abdollahi.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje4yzm3mmixyty1mwmyyji-170",
-    "categories": ["talkshow", "society"]
-  },
-  {
     "name": "Dein Song ",
     "description": "Junge Songwriter erleben im Komponistenwettbewerb eine spannende Zeit vom Casting bis zum Finale. Mit ihren prominenten Musik-Paten arbeiten sie ihre Songs aus und produzieren ein Musikvideo.",
     "urn": "urn:mediathek:zdf:program:dein-song-108",
@@ -675,12 +591,6 @@
     "name": "Der Alte",
     "description": "Thomas Heinze als Hauptkommissar Caspar Bergmann und sein Team lösen in der Freitagskrimireihe aus München spannende Fälle.",
     "urn": "urn:mediathek:zdf:program:der-alte-106",
-    "categories": ["series", "crime"]
-  },
-  {
-    "name": "Der Bozen-Krimi",
-    "description": "Kommissarin Sonja Schwarz hat ihren Topjob in Mainz aufgegeben, um ihrem Mann nach Bozen zu folgen. Doch in der Patchworkfamilie, zu der auch ihre Stieftochter und die biestige Ex-Schwiegermutter ihres Gatten gehören, kracht es gewaltig.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhintvimmjmytc2ymu4nwm-210",
     "categories": ["series", "crime"]
   },
   {
@@ -723,12 +633,6 @@
     "name": "Der Kommissar und der See",
     "description": "Krimireihe mit Walter Sittler und Katharina Böhm.",
     "urn": "urn:mediathek:zdf:program:der-kommissar-und-der-see-102",
-    "categories": ["series", "crime"]
-  },
-  {
-    "name": "Der Kroatien-Krimi",
-    "description": "Die Krimi-Reihe aus Kroatien verbindet aktuelle Themen mit schmerzhaften Erinnerungen der Jugoslawienkriege. Die furchtlose Ermittlerin Neda Rahmanian behauptet sich gegen die alten Strukturen und Seilschaften ihrer männlichen Vorgesetzten.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzmowzhzmqxzte0nzqzotk-156",
     "categories": ["series", "crime"]
   },
   {
@@ -792,18 +696,6 @@
     "categories": ["series", "crime"]
   },
   {
-    "name": "Der Usedom-Krimi",
-    "description": "Im Mittelpunkt der Krimi-Reihe stehen zwei starke Frauen: Kriminalhauptkommissarin Julia Thiel und ihre Mutter Karin Lossow, eine ehemalige Staatsanwältin mit einer tragischen Vergangenheit.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oja4mmfintdmotfimzi0ngi-152",
-    "categories": ["series", "crime"]
-  },
-  {
-    "name": "Der Zürich-Krimi",
-    "description": "Thomas Borchert, der knorrige \"Anwalt ohne Lizenz“, und seine Kollegin Dominique Kuster gehen als ungewöhnliches Team in Zürich auf Verbrecherjagd. Krimireihe mit Christian Kohlund und Ina Paule Klink.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojk0njg5m2u1ngmzotzjyta-168",
-    "categories": ["series", "crime"]
-  },
-  {
     "name": "DEUTSCHER",
     "description": "Drama-Serie über Liebe, Freundschaft & Politik, die alles ändert",
     "urn": "urn:mediathek:zdf:program:deutscher-102",
@@ -834,22 +726,10 @@
     "categories": ["documentary", "crime", "news"]
   },
   {
-    "name": "Die Carolin Kebekus Show",
-    "description": "Die Carolin Kebekus Show - Satire und Comedy von und mit Carolin Kebekus.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oju5ntmzntmxytg4mmy5odm-182",
-    "categories": ["comedy", "show"]
-  },
-  {
     "name": "Die Deutschen",
     "description": "Von Karl dem Großen bis Gustav Stresemann, vom Jahr 748 bis zum Jahr 1929: über ein Jahrtausend deutscher Geschichte in szenischer Rekonstruktion. In 20 Folgen.",
     "urn": "urn:mediathek:zdf:program:die-deutschen-140",
     "categories": ["documentary", "knowledge"]
-  },
-  {
-    "name": "Die Fallers",
-    "description": "Die SWR Kultserie über das Leben einer fiktiven Familie auf einem Bauernhof im Schwarzwald.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojnlnzy5mzhknwy3yjrhnmi-238",
-    "categories": ["series"]
   },
   {
     "name": "Die Gerichtsvollzieher",
@@ -900,12 +780,6 @@
     "categories": ["talkshow", "news", "society"]
   },
   {
-    "name": "Die Kryptoqueen",
-    "description": "Die True-Crime-Serie „Die Kryptoqueen“ erzählt den bisher größten Internet-Betrug – begangen von der geheimnisumwitterten Ruja Ignatova. Die Serie erzählt ihre beispiellose Erfolgsgeschichte, ihren Absturz und von ihrem Verschwinden.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojg1mgfjmdvjnmrlowuznju-140",
-    "categories": ["series", "crime", "documentary"]
-  },
-  {
     "name": "Die Küchenschlacht - Koch-Show",
     "description": "An der Seite von Deutschlands bekanntesten Fernsehköchen kochen sechs Hobbyköche in der Koch-Show täglich ausgewählte Gerichte, die von Juroren bewertet werden.",
     "urn": "urn:mediathek:zdf:program:die-kuechenschlacht-106",
@@ -934,12 +808,6 @@
     "description": "Kann man nachhaltiger leben und dabei Geld sparen? Haushalte stellen sich der Challenge. Von Profis gibt es Tipps und Tricks. Was hilft wirklich?",
     "urn": "urn:mediathek:zdf:program:die-oeko-challenge-102",
     "categories": ["lifestyle", "reportage", "documentary", "knowledge", "show"]
-  },
-  {
-    "name": "Die Paartherapie",
-    "description": "Vier Paare auf der Couch von Paartherapeut Eric Hegmann. Werden sie es schaffen, ihre Beziehungen aus der Krise zu führen?",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzlyzhjyte1n2myzjqyogy-124",
-    "categories": ["documentary", "reportage", "society"]
   },
   {
     "name": "Die Pembrokeshire Morde",
@@ -994,12 +862,6 @@
     "description": "Reporter-Teams rekonstruieren Missstände und spüren Verantwortliche auf",
     "urn": "urn:mediathek:zdf:program:die-spur-224",
     "categories": ["reportage", "documentary", "news"]
-  },
-  {
-    "name": "die story",
-    "description": "Die Sendereihe mit Dokumentationen aus dem In- und Ausland",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfjztnlzmyynzbjzgnhmmm-216",
-    "categories": ["documentary", "reportage"]
   },
   {
     "name": "Die Toten vom Bodensee",
@@ -1080,12 +942,6 @@
     "categories": ["documentary", "travel_nature", "kids"]
   },
   {
-    "name": "Donna Leon",
-    "description": "Commissario Brunetti ermittelt",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojewody1zgywyju5zti2mmm-252",
-    "categories": ["series", "crime"]
-  },
-  {
     "name": "Doppelhaushälfte",
     "description": "Eine Doppelhaushälfte im Grünen, dorthin zieht es in der Comedy-Serie eine Familie aus der Mitte Berlins. Ihre neuen Nachbarn unter demselben Dach sind skeptisch, ob die Neuen ins Dorf passen.",
     "urn": "urn:mediathek:zdf:program:doppelhaushaelfte-102",
@@ -1114,12 +970,6 @@
     "description": "Liebe, Freundschaft und die eigene Identität – die Serie „DRUCK“ erzählt rund um eine Clique in Echtzeit. Immer dann, wenn etwas passiert.",
     "urn": "urn:mediathek:zdf:program:funk-collection-funk-11790-1590",
     "categories": ["series", "kids", "society"]
-  },
-  {
-    "name": "Druckfrisch",
-    "description": "Neue Bücher mit Denis Scheck. Romane und Sachbücher vorgestellt und unter die Lupe genommen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojq0nmjiztbiywexntlintu-136",
-    "categories": ["culture", "magazine", "talkshow"]
   },
   {
     "name": "Duell der Gartenprofis",
@@ -1162,12 +1012,6 @@
     "description": "Tom und Châu haben heimlich Gefühle füreinander, dann freundet sich Milli auch mit Tom an … Plötzlich spitzt sich die Lage zu.",
     "urn": "urn:mediathek:zdf:program:echt-friends-102",
     "categories": ["series", "kids", "society"]
-  },
-  {
-    "name": "Echtes Leben",
-    "description": "Wir sind dabei, wenn das Leben – gefühlt – von vorne beginnt. Wir machen uns mit Menschen auf den Weg, die sich besonderen Lebensaufgaben stellen – auf der Suche nach Glück, Sinn und neuer Zufriedenheit.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omy5mtrimtrkyjcyn2e1nzq-174",
-    "categories": ["reportage", "documentary", "society"]
   },
   {
     "name": "Edins Neo Night",
@@ -1224,12 +1068,6 @@
     "categories": ["series", "comedy"]
   },
   {
-    "name": "Eisenbahn-Romantik",
-    "description": "Reportage-Reihe über aktuelle und historische Bahnthemen. Gezeigt werden berühmte Strecken und legendäre Züge aus aller Welt.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ommwytdmytu3ngzlm2rkntq-172",
-    "categories": ["reportage", "documentary", "travel_nature", "knowledge"]
-  },
-  {
     "name": "Ella Schön",
     "description": "Geschichten um Autistin Ella Schön und ihre Patchworkfamilie\r\n",
     "urn": "urn:mediathek:zdf:program:ella-schoen-102",
@@ -1248,12 +1086,6 @@
     "categories": ["film", "series", "comedy"]
   },
   {
-    "name": "Erlebnis Erde",
-    "description": "Packende und faszinierende Tier- und Naturaufnahmen im Ersten.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojizogvmzwfmmwjlmja1njk-216",
-    "categories": ["documentary", "travel_nature"]
-  },
-  {
     "name": "erLesen",
     "description": "Heinz Sichrovsky begrüßt Prominente und Autorinnen und Autoren zum Literaturgespräch.",
     "urn": "urn:mediathek:zdf:program:erlesen-102",
@@ -1266,12 +1098,6 @@
     "categories": ["kids", "series"]
   },
   {
-    "name": "extra 3",
-    "description": "Christian Ehring zeigt den Irrsinn der Woche.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzmotqyodu5zmfknzzjzgi-132",
-    "categories": ["comedy", "show", "news"]
-  },
-  {
     "name": "Erzgebirgskrimi",
     "description": "Alle verfügbaren Filme und Infos zum Erzgebirgskrimi\r\n\r\n",
     "urn": "urn:mediathek:zdf:program:erzgebirgskrimi-102",
@@ -1282,12 +1108,6 @@
     "description": "Regionale Kochstile und kulinarische Spezialitäten aus Deutschland, Österreich und der Schweiz.",
     "urn": "urn:mediathek:zdf:program:esskulturen-102",
     "categories": ["documentary", "lifestyle", "culture", "travel_nature"]
-  },
-  {
-    "name": "Europamagazin",
-    "description": "Ein spannender Blick auf unseren Kontinent: Reportagen, Wissenswertes und Hintergründe aus Europa.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhkzju2otuwymm5mzkwyte-150",
-    "categories": ["magazine", "news", "reportage", "society"]
   },
   {
     "name": "Geschichten vom Kontinent",
@@ -1312,12 +1132,6 @@
     "description": "Die Interior Designerin Emell Gök Che und ihr Handwerkerteam helfen Privatbesitzern von Ferienhäusern, ein perfektes Urlaubsdomizil zu erschaffen. ",
     "urn": "urn:mediathek:zdf:program:mein-fabelhaftes-ferienhaus-102",
     "categories": ["lifestyle", "reportage", "show"]
-  },
-  {
-    "name": "FAKT",
-    "description": "FAKT berichtet über Hintergründe und aktuelle News aus Politik und Wirtschaft.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhlyzaxntzkzjkwmju1mge-142",
-    "categories": ["magazine", "news", "reportage"]
   },
   {
     "name": "Familie Anders",
@@ -1392,12 +1206,6 @@
     "categories": ["series", "kids", "society"]
   },
   {
-    "name": "FLAESH - Tattookultur in Deutschland",
-    "description": "Schmerz und Euphorie. Traditionelle Techniken und zeitgenössische Stile. FLAESH feiert die Bandbreite der Tattookultur in Deutschland: Das Handwerk, die Artists, ihre Kunst und die Community dahinter.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omexnte0zdhlmmjhota1ymm-126",
-    "categories": ["documentary", "culture", "lifestyle"]
-  },
-  {
     "name": "Floyd Fliege",
     "description": "Die Abenteuer einer witzigen, mutigen Fliege ",
     "urn": "urn:mediathek:zdf:program:floyd-fliege-100",
@@ -1470,18 +1278,6 @@
     "categories": ["show", "comedy", "lifestyle", "knowledge"]
   },
   {
-    "name": "Gefragt – Gejagt",
-    "description": "In \"Gefragt – Gejagt\" mit Alexander Bommes tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn – die \"Jägerin\" oder den \"Jäger\" – an. Sie sind alle ausgewiesene Quizprofis.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojjlyzbmzmm1mtu4ymy0njg-1272",
-    "categories": ["show", "knowledge"]
-  },
-  {
-    "name": "Geheimnisvolle Orte",
-    "description": "Rundfunk Berlin-Brandenburg (rbb) nimmt Sie mit auf eine spannende Spurensuche durch Berlin und Brandenburg. In Dokumentationen werden Orte entdeckt, die unbekannte Kapitel der Zeitgeschichte aufzeigen. Die Doku-Reihe lässt das schicksalhafte 20. ...",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojgzm2fhnwmznmi2zmnlyzm-170",
-    "categories": ["documentary", "travel_nature", "knowledge"]
-  },
-  {
     "name": "Generation Merkel",
     "description": "Wir begleiten junge Wähler*innen im ganzen Land, die sich fast nur an Angela Merkel als Bundeskanzlerin erinnern können. ",
     "urn": "urn:mediathek:zdf:program:generation-merkel-104",
@@ -1516,12 +1312,6 @@
     "description": "Dramaserie über den Niedergang einer Vorzeigefamilie und das Ende der Unbekümmertheit",
     "urn": "urn:mediathek:zdf:program:gestern-waren-wir-noch-kinder-102",
     "categories": ["series"]
-  },
-  {
-    "name": "Giraffe, Erdmännchen & Co. ",
-    "description": "Alles rund um Giraffe, Erdmännchen & Co: Bunte Zoogeschichten aus dem Frankfurt Zoo und dem Opel-Zoo in Kronberg im Taunus.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omi1ywe5nwviothkytvioti-246",
-    "categories": ["documentary", "reportage", "travel_nature", "kids"]
   },
   {
     "name": "Glow Up - Deutschlands nächster Make-up-Star",
@@ -1590,22 +1380,10 @@
     "categories": ["series"]
   },
   {
-    "name": "Hard Life",
-    "description": "Eine Doku-Reihe über Armut und Ungerechtigkeit: hart, ungeschönt, echt.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omnlzjgwnza1ndgyytk3nme-148",
-    "categories": ["documentary", "reportage", "society"]
-  },
-  {
     "name": "Harry Wild - Mörderjagd in Dublin",
     "description": "Humorvolle Krimiserie mit Jane Seymour.",
     "urn": "urn:mediathek:zdf:program:harry-wild-moerderjagd-in-dublin-102",
     "categories": ["series", "crime", "comedy"]
-  },
-  {
-    "name": "Hart aber fair",
-    "description": "Das Polit-Talkmagazin",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje5y2vlmtllzmfjzgi3nge-152",
-    "categories": ["talkshow", "news"]
   },
   {
     "name": "Hart an der Grenze - Geschichten aus Zittau",
@@ -1691,12 +1469,6 @@
     "description": "Bad Boy Rutger steht in der Action-Serie vor Gericht und muss sich entscheiden: Armee oder Gefängnis. Er entscheidet sich für die Royal Dutch Military Academy und wird Kampfjet-Pilot.",
     "urn": "urn:mediathek:zdf:program:high-flyers-100",
     "categories": ["series"]
-  },
-  {
-    "name": "ARD History",
-    "description": "Geschichte erleben, Geschehenes erfahren, Zusammenhänge verstehen. Geschichtsreportagen und historische Dokumentationen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojuwntjlmjvlzgjln2e0nda-166",
-    "categories": ["documentary", "knowledge", "reportage"]
   },
   {
     "name": "ZDF History 360°",
@@ -1787,12 +1559,6 @@
     "description": "Österreichisch-deutsche Psychothriller mit Julia Koschitz.",
     "urn": "urn:mediathek:zdf:program:im-schatten-der-angst-106",
     "categories": ["series", "film", "crime"]
-  },
-  {
-    "name": "Inas Nacht",
-    "description": "Ina Müller klönt und singt bei Inas Nacht mit prominenten Gästen in der Hamburger Kneipe \"Schellfischposten\". Dazu gibt's reichlich Musik - auch von Ina und den Talkgästen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuzmdc4otaynjm5nzq3ntk-202",
-    "categories": ["talkshow", "music", "comedy", "show"]
   },
   {
     "name": "Inga Lindström",
@@ -1921,12 +1687,6 @@
     "categories": ["knowledge", "documentary", "reportage", "society", "kids"]
   },
   {
-    "name": "Käpt'ns Dinner",
-    "description": "Beim Käpt'ns Dinner mit Michel Abdollahi ist alles anders: Eine halbe Stunde Talk an Bord eines U-Boots - zur Lage der Nation und allem, was sonst noch wichtig ist.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omflmtflmzmymjc2yzkymjc-148",
-    "categories": ["talkshow", "society", "news"]
-  },
-  {
     "name": "Karen Pirie - Echo einer Mordnacht",
     "description": "Britische Thriller-Serie um einen Cold Case in Schottland: Eine Polizistin soll nach 25 Jahren den Tod einer jungen Kellnerin aufklären. Nach dem Roman \"Echo einer Winternacht\" von Val McDermid.",
     "urn": "urn:mediathek:zdf:program:karen-pirie-echo-einer-mordnacht-100",
@@ -1937,12 +1697,6 @@
     "description": "Hamburger Krimi-Drama-Serie mit Franziska Hartmann.",
     "urn": "urn:mediathek:zdf:program:katharina-tempel-100",
     "categories": ["series", "crime"]
-  },
-  {
-    "name": "Käthe und ich",
-    "description": "In \"Käthe und ich\" übernehmen Christoph Schechinger als Psychologe Paul Winter, der sich auf tiergestützte Therapien spezialisiert hat, und die Australian-Shepherd-Hündin Käthe anspruchsvolle Fälle.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje1y2njytjmn2qwztbizjk-152",
-    "categories": ["series"]
   },
   {
     "name": "Kidnapped: The Chloe Ayling Story",
@@ -1993,12 +1747,6 @@
     "categories": ["news", "knowledge", "magazine", "documentary"]
   },
   {
-    "name": "Kontraste",
-    "description": "Kontraste ist das kritische Magazin aus Berlin. Kontraste bringt Gegensätze auf den Punkt. Keine Politikerphrasen, kein Infotainment: Das Magazin geht den Dingen auf den Grund, neugierig und mit sorgfältiger Recherche. Kontraste deckt Hintergründe ...",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfiy2u4n2eyywu2mme4odc-150",
-    "categories": ["magazine", "news", "reportage"]
-  },
-  {
     "name": "Konzerte und Festivals",
     "description": "Ob Klassik oder Rock, Oper oder Jazz: Musik in der 3sat.",
     "urn": "urn:mediathek:zdf:program:konzerte-und-festivals-102",
@@ -2045,12 +1793,6 @@
     "description": "Animationsformat, das komplexe Themen aus Wissenschaft, Forschung, Politik, Philosophie und Technik verständlich und unterhaltsam erklärt.",
     "urn": "urn:mediathek:zdf:program:funk-collection-funk-11090-442",
     "categories": ["knowledge", "kids", "documentary"]
-  },
-  {
-    "name": "Ladies Night ",
-    "description": "Kabarettistischer Abend mit reiner Frauenbesetzung",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojc3m2iynzk2yjvkmwiznji-142",
-    "categories": ["comedy", "show"]
   },
   {
     "name": "Laim und ...",
@@ -2227,12 +1969,6 @@
     "categories": ["kids", "series", "travel_nature"]
   },
   {
-    "name": "Live nach Neun",
-    "description": "Die Unterhaltungssendung am Morgen mit aktuellen Themen, Live-Geschichten aus ganz Deutschland, garniert mit viel guter Laune mit den Moderator*innen Alina Stiegler, Isabel Varell, Anne Willmes, Peter Großmann, Marco Lombardo, Tim Schreder.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oju3oddhowy3owrmn2e0ywi-136",
-    "categories": ["magazine", "lifestyle", "news", "reportage"]
-  },
-  {
     "name": "ZDF Magazin Royale - Late-Night mit Jan Böhmermann",
     "synonyms": ["zdf magazin royale"],
     "description": "Jan Böhmermanns Late-Night-Satire kombiniert gesellschaftlich relevante Themen mit Witz und Ironie – journalistisch fundiert und gewohnt provokant.",
@@ -2256,12 +1992,6 @@
     "description": "Bei diesem Preis machen Literaten einen Film.",
     "urn": "urn:mediathek:zdf:program:mainzer-stadtschreiber-104",
     "categories": ["culture", "documentary", "show", "film"]
-  },
-  {
-    "name": "maischberger",
-    "description": "Sandra Maischberger diskutiert mit ihren Gästen im Studio aktuelle Themen. Was beschäftigt das Land? Welche Menschen stehen im Fokus?",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omu3mdnmmwnlzjfmmtjkngy-180",
-    "categories": ["talkshow", "news", "society"]
   },
   {
     "name": "MAITHINK X - Die Show",
@@ -2298,12 +2028,6 @@
     "description": "Weltrekordversuch unter Lebensgefahr. Ein Extremsportler will 53 km durchs offene Meer schwimmen, trotz Haien und starker Strömung. Mission: Rettet den Ozean.\r\n",
     "urn": "urn:mediathek:zdf:program:man-of-the-ocean-102",
     "categories": ["documentary", "sports", "travel_nature", "society"]
-  },
-  {
-    "name": "mareTV",
-    "description": "MareTV findet auf der ganzen Welt die schönsten und spannendsten Geschichten von Menschen und Meer.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzmodi2n2vmodqxn2jlzdq-216",
-    "categories": ["documentary", "reportage", "travel_nature"]
   },
   {
     "name": "Marie Brand und ...",
@@ -2360,12 +2084,6 @@
     "categories": ["kids", "series"]
   },
   {
-    "name": "Meister des Alltags",
-    "description": "Moderator Florian Weber stellt in seinem Wissensquiz \"Meister des Alltags\" die Alltagstauglichkeit seiner prominenten Kandidaten auf die Probe.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojuxntq4mduwy2m3nzkwnwm-740",
-    "categories": ["show", "knowledge", "lifestyle", "comedy"]
-  },
-  {
     "name": "Mein Zuhause richtig schön",
     "description": "Bau- und Einrichtungsexpertin Eva Brenner unterstützt Familien bei Wohnproblemen.",
     "urn": "urn:mediathek:zdf:program:mein-zuhause-richtig-schoen-104",
@@ -2408,12 +2126,6 @@
     "categories": ["news", "magazine", "sports", "culture", "lifestyle"]
   },
   {
-    "name": "Mittendrin - Flughafen Frankfurt ",
-    "description": "Die Doku-Reihe wirft einen Blick hinter die Kulissen des Flughafen Frankfurts. Sie begleitet Menschen, die am Flughafen arbeiten und ermöglicht einen Einblick in eine Welt, die man als Passagier:in nicht mitbekommt.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojmxngiynmnmztm2nde0n2u-170",
-    "categories": ["documentary", "reportage"]
-  },
-  {
     "name": "Moin Piet",
     "description": "Piet Flosse und seine Freunde gehen auf magische Reise. ",
     "urn": "urn:mediathek:zdf:program:moin-piet-102",
@@ -2426,12 +2138,6 @@
     "categories": ["documentary", "knowledge"]
   },
   {
-    "name": "Monitor",
-    "description": "Magazin mit Themen aus Politik, Wirtschaft und Gesellschaft.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhknzg2ntjlztg4nzy5mmm-140",
-    "categories": ["magazine", "news", "reportage"]
-  },
-  {
     "name": "Mood",
     "description": "Webcam-Model zeigt Singer-Songwriterin eine neue Welt voller Glanz.",
     "urn": "urn:mediathek:zdf:program:mood-102",
@@ -2442,18 +2148,6 @@
     "description": "Schwedische Krimiserie nach Figuren von Viveca Sten",
     "urn": "urn:mediathek:zdf:program:mord-im-mittsommer-106",
     "categories": ["series", "crime"]
-  },
-  {
-    "name": "Mordkommission Istanbul",
-    "description": "Kommissar Mehmet Özakin ermittelt in Istanbul",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojdiytaxzdkwyzy5ntk5nji-146",
-    "categories": ["series", "crime"]
-  },
-  {
-    "name": "Mord mit Aussicht ",
-    "description": "Wachablösung in Hengasch: Marie Gabler (Katharina Wackernagel) übernimmt die Polizeidienststelle im idyllischen Eifeldorf Hengasch.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojjmotc5mthlodm2njbmnzc-206",
-    "categories": ["series", "crime", "comedy"]
   },
   {
     "name": "Mordsschwestern – Verbrechen ist Familiensache",
@@ -2498,12 +2192,6 @@
     "categories": ["series", "crime"]
   },
   {
-    "name": "Nachtstreife",
-    "description": "Die „Nachtstreife“ ist zurück in Mainz. Die fünfte Staffel begleitet die Mainzer Polizistinnen und Polizisten während ihrer nächtlichen Einsätze in ihrem Kampf gegen Gewalt und Kriminalität.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojkynjy2mdc3ownjnwixnwi-162",
-    "categories": ["documentary", "reportage", "crime", "society"]
-  },
-  {
     "name": "Nächste Ausfahrt Glück",
     "description": "Eine Liebesgeschichte, eine deutsch-deutsche Geschichte",
     "urn": "urn:mediathek:zdf:program:naechste-ausfahrt-glueck-106",
@@ -2514,18 +2202,6 @@
     "description": "NANO geht den Dingen auf den Grund und macht Wissenschaft verständlich.",
     "urn": "urn:mediathek:zdf:program:nano-722",
     "categories": ["magazine", "documentary", "knowledge"]
-  },
-  {
-    "name": "Narcos Inside",
-    "description": "Drogen, Menschen- und Waffenschmuggel – das ist das Geschäft der Narcos, der Kartelle in Mexiko. Organisierte Verbrecherbanden, die für eine der höchsten Mordraten der Welt verantwortlich sind und Polizisten, die wegschauen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojnimtrizmzkowixzgnkowe-124",
-    "categories": ["documentary", "crime", "reportage"]
-  },
-  {
-    "name": "NDR Talk Show",
-    "description": "Amüsant, streithaft, nachdenklich – die NDR Talk Show ist immer lebendig und im besten Sinne des Wortes interessant. Den Klassiker moderieren Barbara Schöneberger und Hubertus Meyer-Burckhardt sowie Bettina Tietjen und Steven Gätjen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oji0zddjzdiwotzkmdhiyju-190",
-    "categories": ["talkshow"]
   },
   {
     "name": "Neben der Spur",
@@ -2552,12 +2228,6 @@
     "categories": ["series"]
   },
   {
-    "name": "Neues aus Büttenwarder",
-    "description": "Büttenwarder liegt irgendwo zwischen Flensburg und Hamburg. Hier leben Kurt Brakelmann und Adsche Tönnsen, zwei Bauern mit Antworten auf alle Fragen des Lebens.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhjnzm0mdrlzdi5otzmzdg-212",
-    "categories": ["series", "comedy"]
-  },
-  {
     "name": "Nicht nachmachen!",
     "description": "Factual-Entertainment: Wigald Boning und Bernhard Hoëcker lösen die Fragen des Alltags. Mit hochexplosiven Experimenten zeigen die beiden, warum es wichtig ist, Warnhinweise nicht zu ignorieren.",
     "urn": "urn:mediathek:zdf:program:nicht-nachmachen-126",
@@ -2568,12 +2238,6 @@
     "description": "Sozialexperiment: Wie konservativ sind die Rollenbilder bei Kindern?",
     "urn": "urn:mediathek:zdf:program:no-more-boys-and-girls-102",
     "categories": ["documentary", "society", "kids"]
-  },
-  {
-    "name": "Nord bei Nordwest",
-    "description": "Ihre Fälle spielen im hohen Norden: Der Tierarzt Hauke Jacobs ermittelt gemeinsam mit Kommissarin Hannah Wagner.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojrhn2yxnti0ndgwzdm1mgq-228",
-    "categories": ["series", "crime"]
   },
   {
     "name": "Nordholm",
@@ -2598,12 +2262,6 @@
     "description": "Alle Infos und verfügbaren Folgen zu Notruf Hafenkante",
     "urn": "urn:mediathek:zdf:program:notruf-hafenkante-104",
     "categories": ["series", "crime"]
-  },
-  {
-    "name": "Nuhr im Ersten",
-    "description": "Politische Peinlichkeiten, Skandale, der Irrwitz des Alltags – Dieter Nuhr lässt sich nichts entgehen, was er humorvoll sezieren oder mit beißend scharfen Worten kommentieren kann.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvmzwiznwm0m2rlzju2ndu-162",
-    "categories": ["comedy", "show"]
   },
   {
     "name": "Oktoberfest - Das größte Volksfest der Welt",
@@ -2646,12 +2304,6 @@
     "description": "Elitesoldat Niels Oxen im Kampf gegen die Geheimloge \"Danehof\".",
     "urn": "urn:mediathek:zdf:program:oxen-102",
     "categories": ["series", "crime"]
-  },
-  {
-    "name": "Panorama",
-    "description": "Panorama ist eines der erfolgreichsten Politik-Magazine im deutschen Fernsehen. Alle drei Wochen berichten wir pointiert und engagiert über soziale Missstände und politische Fehltritte.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omu4ztyxnmu3ntvizju5y2i-136",
-    "categories": ["magazine", "news", "reportage"]
   },
   {
     "name": "Paris Has Fallen",
@@ -2714,24 +2366,6 @@
     "categories": ["documentary", "travel_nature", "knowledge"]
   },
   {
-    "name": "planet schule",
-    "description": "Lernvideos für den Unterricht, als Nachhilfe oder zur Prüfungsvorbereitung.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojjhmgy4nzrkotq2nznhyti-204",
-    "categories": ["knowledge", "kids", "documentary"]
-  },
-  {
-    "name": "Planet Wissen",
-    "description": "Die clevere Fernsehsendung - von Natur bis Kultur",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omy1ztgzywzlyjc3mdjknje-182",
-    "categories": ["knowledge", "magazine", "show", "travel_nature", "culture"]
-  },
-  {
-    "name": "Plusminus",
-    "description": "Finanzen, Gesundheit, Umwelt, Mobilität – Plusminus ist das hintergründige Wirtschaftsmagazin der ARD.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omqxnmi0yzdjmdnimwfjmtu-160",
-    "categories": ["magazine", "lifestyle", "news", "knowledge"]
-  },
-  {
     "name": "Politbarometer",
     "description": "Bericht über die Stimmung im Land. Die Umfragen werden von der Mannheimer Forschungsgruppe Wahlen durchgeführt.  ",
     "urn": "urn:mediathek:zdf:program:politbarometer-344",
@@ -2742,12 +2376,6 @@
     "description": "Talks, Dokus und Reportagen.",
     "urn": "urn:mediathek:zdf:program:politik-und-gesellschaft-102",
     "categories": ["talkshow", "documentary", "reportage", "news", "society"]
-  },
-  {
-    "name": "Polizeiruf 110",
-    "description": "\"Polizeiruf 110\" ist eines der erfolgreichsten Krimiformate im deutschen Fernsehen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojqxmzc1njhmyjrizgninwe-214",
-    "categories": ["series", "crime"]
   },
   {
     "name": "Pop Around @ Bauhaus",
@@ -2768,22 +2396,10 @@
     "categories": ["comedy", "show"]
   },
   {
-    "name": "Praxis mit Meerblick",
-    "description": "Mit ihrem schlagfertigen Ruhrpott-Charme eckt Tanja Wedhorn alias Nora Kaminski in der Komödienreihe \"Praxis mit Meerblick\" immer wieder bei den Einheimischen auf der Ostseeinsel Rügen an.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojywogjjm2yzm2i4ota0ywe-174",
-    "categories": ["series", "comedy"]
-  },
-  {
     "name": "Precht",
     "description": "Gesprächsreihe mit Richard David Precht",
     "urn": "urn:mediathek:zdf:program:precht-104",
     "categories": ["talkshow", "society", "knowledge", "culture"]
-  },
-  {
-    "name": "Presseclub",
-    "description": "Im ARD-Presseclub diskutieren Journalist:innen das aus Sicht der Redaktion wichtigste Thema der Woche. Moderiert wird der ARD-Presseclub von Ellen Ehni, Jörg Schönenborn und Susan Link.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzjota5n2fmmti5mjfiogi-158",
-    "categories": ["talkshow", "news"]
   },
   {
     "name": "Princess of Science",
@@ -2840,12 +2456,6 @@
     "categories": ["documentary", "talkshow", "society"]
   },
   {
-    "name": "Rabiat by Y-Kollektiv",
-    "description": "Das junge Reportageformat von Radio Bremen und dem SWR mit rabiaten Geschichten junger Autorinnen und Autoren, mit relevanten Themen ihrer Generation.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuxyzc1nzrinjbknwm4mdq-172",
-    "categories": ["reportage", "society", "kids"]
-  },
-  {
     "name": "Bares für Rares - die tägliche Show",
     "description": "Unerwartete Überraschungen und die Geschichte vieler Schätze und Raritäten – das alles bietet Horst Lichters Trödelshow. ",
     "urn": "urn:mediathek:zdf:program:bares-fuer-rares-104",
@@ -2870,18 +2480,6 @@
     "categories": ["series", "crime", "film"]
   },
   {
-    "name": "Reeperbahn Spezialeinheit FD65",
-    "description": "Im Jahr 1980 nehmen 40 Männer und eine Frau erstmals in Deutschland den Kampf gegen das Organisierte Verbrechen auf.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ome3nzhjytkzytfhntm0zje-142",
-    "categories": ["documentary", "crime", "knowledge"]
-  },
-  {
-    "name": "Reisehelden",
-    "description": "Authentische Road-Trips und Abenteuerreisen, hautnah gefilmt: Staffel 1 (\"Über Grenzen\") begleitet Rentnerin Margot bei ihrer Motorradreise nach Zentralasien. In Staffel 2 (\"Einfach abgefahren\") bricht sie mit ihrem alten Benz nach Südostasien auf....",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oja5mgfimmrlymfjzgmymgq-136",
-    "categories": ["travel_nature", "documentary", "reportage"]
-  },
-  {
     "name": "ZDF.reportage",
     "description": "lebensnah, aktuell, unterhaltsam",
     "urn": "urn:mediathek:zdf:program:zdf-reportage-104",
@@ -2892,18 +2490,6 @@
     "description": "Die Reportagen rücken Menschen und ihre berührenden Schicksale ins Zentrum - in der Schweiz und weltweit. ",
     "urn": "urn:mediathek:zdf:program:reporter-122",
     "categories": ["reportage", "society", "documentary"]
-  },
-  {
-    "name": "REPORT MAINZ",
-    "description": "Als eines der besten investigativ arbeitenden Magazine deckt REPORT MAINZ regelmäßig bundesweit Missstände in Politik, Wirtschaft und Gesellschaft auf.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfizjfhntdmogvimmjhmtk-134",
-    "categories": ["magazine", "news", "reportage"]
-  },
-  {
-    "name": "report MÜNCHEN",
-    "description": "Investigativer Journalismus, seriöse Informationen und klare Positionen - das sind die Markenzeichen von \"report München\".",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojc3ztyzmwexywe1mzewyty-154",
-    "categories": ["magazine", "news", "reportage"]
   },
   {
     "name": "Rettung in den Alpen",
@@ -2946,12 +2532,6 @@
     "description": "Romantische Liebesfilme vor der traumhaften Kulisse Cornwalls",
     "urn": "urn:mediathek:zdf:program:rosamunde-pilcher-128",
     "categories": ["film", "series", "travel_nature"]
-  },
-  {
-    "name": "Rote Rosen",
-    "description": "\"Rote Rosen\" erzählt Geschichten von Liebe, Intrigen und schicksalhaften Wendungen des Lebens.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojrjotnizjkwzdg2ngqzn2i-284",
-    "categories": ["series"]
   },
   {
     "name": "Rudis Rabenteuer",
@@ -3146,12 +2726,6 @@
     "categories": ["series", "crime"]
   },
   {
-    "name": "Sträter",
-    "description": "In einer privat anmutenden Atmosphäre lädt Sträter ein zu „einem intimen Abend unter Freunden“. Über seine Gäste sagt er: „Jeder einzelne Mensch, der in meine Sendung kommt, ist ein Mensch, der mir hochsympathisch ist.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ommwndrlnzbimgzkzdfknmu-142",
-    "categories": ["talkshow", "comedy", "show"]
-  },
-  {
     "name": "Stubbe - Von Fall zu Fall",
     "description": "Alle verfügbaren Filme und Infos zu Stubbe - Von Fall zu Fall.",
     "urn": "urn:mediathek:zdf:program:stubbe-von-fall-zu-fall-102",
@@ -3164,22 +2738,10 @@
     "categories": ["show", "comedy", "talkshow"]
   },
   {
-    "name": "Sturm der Liebe",
-    "description": "In der 21. \"Sturm der Liebe\"-Staffel rücken Maxi (Katharina Scheuba) als Traumfrau und Henry (Elias Reichert) als Traummann in den Vordergrund. Ihre große Liebe lernt Maxi am Roulettetisch kennen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojhmn2m1yjm1mdnmmjnmndq-302",
-    "categories": ["series"]
-  },
-  {
     "name": "Superhero Academy",
     "description": "Schaffen es alle, die Superhelden von morgen zu werden?",
     "urn": "urn:mediathek:zdf:program:superhero-academy-102",
     "categories": ["kids", "show", "series"]
-  },
-  {
-    "name": "Superstoffe",
-    "description": "Kohlenhydrate, Fette, Proteine sind Grundbausteine des Lebens und wahre Superstoffe. Sie liefern die Energie, damit wir uns bewegen und Leistung bringen können, regulieren den Stoffwechsel und den Hormonhaushalt mit.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojazzdg0ywrjzwq0nzk5ntg-122",
-    "categories": ["knowledge", "documentary", "lifestyle"]
   },
   {
     "name": "Survivors",
@@ -3200,18 +2762,6 @@
     "categories": ["series", "crime"]
   },
   {
-    "name": "tagesschau",
-    "description": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1042",
-    "categories": ["news"]
-  },
-  {
-    "name": "tagesthemen",
-    "description": "Aktuelle Themen ausführlich und hintergründig betrachtet.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzlmtk1yzc4mgi1njnhngq-186",
-    "categories": ["news"]
-  },
-  {
     "name": "TakeOver – Drei Tage raus",
     "description": "Zwei Menschen, zwei Welten – eine mutige Challenge: Mit Hilfe von Hubertus Koch brechen sie aus ihrer Bubble aus und müssen den Job des anderen bewältigen.",
     "urn": "urn:mediathek:zdf:program:takeover-drei-tage-raus-102",
@@ -3222,12 +2772,6 @@
     "description": "Tanoshii ist dein Guide durch die aufregende Welt von Anime und Manga - mit krassen Wissensduellen, den besten Rankings, originellen Tipps und genialen Zeichentutorials.",
     "urn": "urn:mediathek:zdf:program:tanoshii-102",
     "categories": ["kids", "magazine", "show", "culture", "knowledge"]
-  },
-  {
-    "name": "Tatort",
-    "description": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oji0ytqxodqzy2q5mtlmyjg-764",
-    "categories": ["series", "crime"]
   },
   {
     "name": "Tatort Israel",
@@ -3252,12 +2796,6 @@
     "description": "Taylor hat eine Gabe: Sie versteht die Tiere!",
     "urn": "urn:mediathek:zdf:program:taylors-welt-der-tiere-100",
     "categories": ["kids", "series"]
-  },
-  {
-    "name": "Techno House Deutschland",
-    "description": "Sven Väth, Monika Kruse, Paul van Dyk, Anja Schneider, Matthias Tanzmann und viele mehr erzählen, warum Techno und House in Deutschland so sehr geliebt werden.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omiyzwq2ntfjnjc0ndaxnme-124",
-    "categories": ["documentary", "music", "culture"]
   },
   {
     "name": "Terra Xpress",
@@ -3332,18 +2870,6 @@
     "categories": ["series", "comedy"]
   },
   {
-    "name": "Tierärztin Dr. Mertens",
-    "description": "Seit vielen Jahren kümmert sich Tierärztin Dr. Susanne Mertens um die Tiere des Leipziger Zoos. Dabei erlebt sie sowohl gefährliche als auch rührende Situationen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje3y2ywodc2ndcyotgzoty-762",
-    "categories": ["series"]
-  },
-  {
-    "name": "ttt – titel, thesen, temperamente",
-    "description": "Das Kulturmagazin im Ersten",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje5ndq3yzdjy2njztrmzme-178",
-    "categories": ["culture", "magazine"]
-  },
-  {
     "name": "Till Reiners’ Happy Hour",
     "description": "Ein scharfer Mix aus Comedy, Kabarett und Musik - mit Hirn und Haltung.",
     "urn": "urn:mediathek:zdf:program:till-reiners-happy-hour-102",
@@ -3360,12 +2886,6 @@
     "description": "Tobie ist nur eineinhalb Millimeter groß und lebt in einer Eiche. Eines Tages muss er flüchten. ",
     "urn": "urn:mediathek:zdf:program:tobie-lolness-102",
     "categories": ["kids", "series"]
-  },
-  {
-    "name": "Tomorrow Now",
-    "description": "Die Physikerin Sina Kürtz und der Science TikToker Niklas Kolorz zeigen die abgefahrensten Ideen und Erfindungen - aus der Vergangenheit und von heute. Welche Zukunftsvisionen könnten schon bald Realität sein?",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxyta4nzq3zju3m2ewztq-128",
-    "categories": ["knowledge", "show", "magazine", "kids"]
   },
   {
     "name": "Törtel",
@@ -3458,28 +2978,10 @@
     "categories": ["documentary", "reportage", "series", "society"]
   },
   {
-    "name": "Verstehen Sie Spaß?",
-    "description": "Filme mit versteckter Kamera und lustige Streiche. Hier gibt es die aktuellste Sendung, kultige Klassiker und exklusive Online-Pranks zu sehen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxogjhztkymzmxzjzjodg-158",
-    "categories": ["comedy", "show"]
-  },
-  {
     "name": "Vienna Blood",
     "description": "Krimiserie um mysteriöse Morde in Wien Anfang des 20. Jahrhunderts.",
     "urn": "urn:mediathek:zdf:program:vienna-blood-102",
     "categories": ["series", "crime"]
-  },
-  {
-    "name": "Visite",
-    "description": "Visite informiert über aktuelle Entwicklungen aus den Bereichen Medizin und Gesundheit - aus Klinik, Praxis und Forschung.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojfkowm5ytk0nmqzmtdjzti-168",
-    "categories": ["magazine", "knowledge", "lifestyle"]
-  },
-  {
-    "name": "VOLLBILD - Recherchen, die mehr zeigen",
-    "description": "Die Welt ist voller Behauptungen - doch was stimmt und was nicht? VOLLBILD zeigt das ganze Bild, die Story dahinter. Alle vier Wochen gehen wir einem Versprechen aus Politik, Wirtschaft oder Gesellschaft auf den Grund. Offensiv, direkt, mutig....",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93oje4zjbimgrlywjkzgq1nwe-132",
-    "categories": ["reportage", "documentary", "news", "society"]
   },
   {
     "name": "Volle Kanne",
@@ -3492,12 +2994,6 @@
     "description": "Dr. Leon Windscheid erklärt die größten psychologischen Geheimnisse, die unser Verhalten beeinflussen – auf witzige und verständliche Weise.\r\n ",
     "urn": "urn:mediathek:zdf:program:voll-psychologisch-show-mit-dr-leon-windscheid-102",
     "categories": ["knowledge", "show", "society"]
-  },
-  {
-    "name": "W wie Wissen",
-    "description": "Staunen, entdecken, verstehen - das bietet \"W WIE WISSEN\" immer sonntags um 17.00 Uhr im Ersten.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omywodm2nwrmytc2njq0yjk-124",
-    "categories": ["knowledge", "magazine", "show"]
   },
   {
     "name": "Wahre Verbrechen – Suche nach Gerechtigkeit",
@@ -3548,12 +3044,6 @@
     "categories": ["comedy", "show", "culture", "documentary"]
   },
   {
-    "name": "Weltspiegel",
-    "description": "Der Weltspiegel als Video on Demand: Reportagen aus aller Welt.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omuznta1owywzwi4nzuynme-160",
-    "categories": ["reportage", "magazine", "news", "documentary"]
-  },
-  {
     "name": "Wendland",
     "description": "Krimireihe mit Ulrich Noethen",
     "urn": "urn:mediathek:zdf:program:wendland-104",
@@ -3564,12 +3054,6 @@
     "description": "Außergewöhnliche Ereignisse fordern ungewöhnliche Experten.",
     "urn": "urn:mediathek:zdf:program:were-on-it-comrades-100",
     "categories": ["series", "comedy"]
-  },
-  {
-    "name": "Wer weiß denn sowas?",
-    "description": "Superhirn Bernhard Hoëcker, der immer wieder mit Wissen überrascht, wo andere noch nicht mal eine Ahnung haben, und Quizmaster Elton sind die Teamchefs in dem schlauen Wissensspiel \"Wer weiß denn sowas?\" im Ersten.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxmmrhywmyody0ogiyzte-688",
-    "categories": ["show", "knowledge", "comedy"]
   },
   {
     "name": "Wetten, dass..?",
@@ -3594,12 +3078,6 @@
     "description": "Wikinger-Abenteuer auf hoher See mit Wickie und seiner fabelhaften Drachenboot-Mannschaft!",
     "urn": "urn:mediathek:zdf:program:wickie-und-die-starken-maenner-106",
     "categories": ["kids", "series"]
-  },
-  {
-    "name": "Wie Gott uns schuf",
-    "description": "Sie sind Priester, Ordensbrüder, Gemeindereferentinnen, Bistums-Mitarbeitende, Religionslehrer, Kindergärtnerinnen, Sozialarbeiter und vieles mehr. Hundert Gläubige outen sich und berichten von ihren Erfahrungen als queere Menschen in der ...",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omzjmwe3mzyyoge1ztnjnmu-126",
-    "categories": ["documentary", "society", "reportage"]
   },
   {
     "name": "Wie lange ist für immer? ",
@@ -3644,12 +3122,6 @@
     "categories": ["lifestyle", "show", "reportage"]
   },
   {
-    "name": "Wolfsland",
-    "description": "Die Görlitzer Krimireihe mit Yvonne Catterfeld und Götz Schubert als Kriminalhauptkommissarin Viola Delbrück und Kriminalhauptkommissar Burkhard \"Butsch\" Schulz.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojzingnmzgyxnjqyngmznwy-162",
-    "categories": ["series", "crime"]
-  },
-  {
     "name": "Wovon träumst du?",
     "description": "Raus aus dem Alltag, rein ins Abenteuer: Sieben Menschen testen eine Woche lang ihren Lebenstraum. Was passiert, wenn der Wunsch Wirklichkeit wird?",
     "urn": "urn:mediathek:zdf:program:wovon-traeumst-du-102",
@@ -3674,12 +3146,6 @@
     "categories": ["knowledge", "reportage", "documentary", "society"]
   },
   {
-    "name": "XXL Camper - Die Wohnmobil-Schrauber",
-    "description": "Ihre Leidenschaft: XXL-Camper, spezialisiert auf US-Wohnmobile. Ihre Kund:innen: Spezielle Menschen mit besonderen Fahrzeugen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojaxyjq1mjk2yzqwnmfmotq-112",
-    "categories": ["reportage", "documentary", "lifestyle"]
-  },
-  {
     "name": "XY gelöst",
     "description": "True-Crime-Reihe mit Journalist Sven Voss über die Aufklärung aufsehenerregender Kriminalfälle. ",
     "urn": "urn:mediathek:zdf:program:xy-geloest-106",
@@ -3692,28 +3158,10 @@
     "categories": ["crime", "documentary", "knowledge", "series"]
   },
   {
-    "name": "Y-Kollektiv",
-    "description": "Wir zeigen die Welt, wie wir sie erleben. Echt und nah. Bei uns gibt’s die großen gesellschaftlichen Themen unserer Zeit, erzählt in persönlichen Geschichten.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyymdlinwfizdg4nme3ywm-194",
-    "categories": ["reportage", "society", "documentary", "kids"]
-  },
-  {
-    "name": "Young Adventurers",
-    "description": "Es gibt kein größeres Abenteuer, als fremde Länder zu entdecken und dort neue Menschen kennenzulernen.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ommwmzljowyxzmq1otdkyjq-126",
-    "categories": ["kids", "travel_nature", "documentary", "reportage"]
-  },
-  {
     "name": "Zacki und die Zoobande",
     "description": "Wenn Krokodil Zacki und seine Freunde zur Vulkaninsel aufbrechen, passiert auf der Fahrt immer etwas Unerwartetes, was den Zeitplan der Tiere komplett durcheinander würfelt.",
     "urn": "urn:mediathek:zdf:program:zacki-und-die-zoobande-102",
     "categories": ["kids", "series"]
-  },
-  {
-    "name": "ZAPP",
-    "description": "Von Boulevardschlachten über Rosenkriege bis hin zu den Image-Kampagnen der Polit-Szene – ZAPP blickt hinter die Kulissen der Medienwelt.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojnjymjmndg2y2fjmze0ode-144",
-    "categories": ["magazine", "news", "knowledge", "culture"]
   },
   {
     "name": "Pop Around @ Bauhaus",
@@ -3782,12 +3230,6 @@
     "categories": ["kids", "show", "knowledge"]
   },
   {
-    "name": "3nach9 – Die Mutter aller Talkshows",
-    "description": "Unterhaltung zum Mitdenken – unter diesem Motto laden sich Judith Rakers und Giovanni di Lorenzo einmal im Monat eine illustre Gästerunde ein.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojyxzmu4otljyti3mda0mdu-170",
-    "categories": ["talkshow"]
-  },
-  {
     "name": "3satFestival",
     "description": "Bühne frei für bissiges Kabarett, beste Comedy, feinsten Poetry Slam und Musik",
     "urn": "urn:mediathek:zdf:program:3sat-festival-102",
@@ -3816,12 +3258,6 @@
     "description": "In der Reportagereihe \"37°Leben\" erzählen junge Menschen ihre Geschichten. Welche Zukunftspläne haben sie? Wie stehen sie zu Partnerschaft, Familie, Religion? ",
     "urn": "urn:mediathek:zdf:program:37-grad-leben-102",
     "categories": ["reportage", "documentary", "society"]
-  },
-  {
-    "name": "NDR Story",
-    "description": "Stadt, Land, relevant: Die NDR Story berichtet über das, was die Menschen vor Ort beschäftigt und bewegt.",
-    "urn": "urn:mediathek:zdf:program:collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojk1yjy5zwe5zdq4ntm5yzk-162",
-    "categories": ["reportage", "documentary", "society", "news"]
   },
   {
     "name": "Terra X",
