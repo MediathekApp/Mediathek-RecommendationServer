@@ -1,510 +1,788 @@
 [
   {
+    "name": "Ab 18!",
+    "description": "Dokumentarfilme über junge Erwachsene",
     "urn": "urn:mediathek:3sat:program:ab-18-100",
     "categories": ["documentary", "society"]
   },
   {
+    "name": "Alpenpanorama - Die Webcams ",
+    "description": "Zahlreiche Web- und Panoramakameras zeigen täglich Livebilder aus ausgewählten Urlaubsorten ",
     "urn": "urn:mediathek:3sat:program:alpenpanorama-100",
     "categories": ["travel_nature"]
   },
   {
+    "name": "Die Anstalt",
+    "description": "Politsatire mit Max Uthoff und Claus von Wagner - Wortgewandt, unkonventionell und mit viel satirischer Schärfe! ",
     "urn": "urn:mediathek:3sat:program:die-anstalt-168",
     "categories": ["comedy"]
   },
   {
+    "name": "America, let's talk",
+    "description": "Im Vorfeld der Präsidentschaftswahlen in den USA, die am 5. November 2024 stattfinden werden, dokumentieren Barbara Lüthi und Peter Düggeli, wie zerrissen die USA sind. Die Reporter reisen von der Ost- an die Westküste der USA. Dabei kommen sie ins Gespräch mit Menschen aus allen Schichten – Reich und Arm, Jung und Alt, Republikanerinnen und Demokraten. ",
     "urn": "urn:mediathek:3sat:program:america-lets-talk-102",
     "categories": ["reportage", "society"]
   },
   {
+    "name": "aspekte",
+    "description": "Unterwegs in der Welt der Literatur, Kunst, Musik, des Theaters und Kinos. Die Kultursendung stellt aktuelle Gesellschaftsdebatten vor und trifft Denker*innen, Künstler*innen und Musiker*innen.",
     "urn": "urn:mediathek:3sat:program:aspekte-102",
     "categories": ["culture", "magazine", "society"]
   },
   {
+    "name": "Asül für alle",
+    "description": "Wenn eine Ausländerbehörde von Django Asül geleitet wird, ist das Chaos nicht weit. Wenn ihm dabei Rolf Miller, Wolfgang Krebs und Maxi Gstettenbauer ambitioniert zur Seite stehen, naht das Inferno.",
     "urn": "urn:mediathek:3sat:program:asuel-fuer-alle-108",
     "categories": ["comedy"]
   },
   {
+    "name": "Auf den Schienen des Doppeladlers",
+    "description": "Eine Dokureihe über die Entstehung des gigantischen Bahnnetzes der Donaumonarchie, über die bautechnischen Meisterleistungen, um die Hauptstadt Wien mit den Kronländern zu verbinden.",
     "urn": "urn:mediathek:3sat:program:auf-den-schienen-des-doppeladlers-114",
     "categories": ["documentary", "knowledge"]
   },
   {
+    "name": "auslandsjournal extra",
+    "description": "Der wöchentliche Blick in die Welt mit alltagsnahen Geschichten aus fremden Ländern",
     "urn": "urn:mediathek:3sat:program:auslandsjournal-extra-100",
     "categories": ["reportage", "magazine"]
   },
   {
+    "name": "Aussenperspektiven",
+    "description": "KorrespondentInnen-Geschichten aus der Schweiz ",
     "urn": "urn:mediathek:3sat:program:aussenperspektiven-106",
     "categories": ["reportage"]
   },
   {
+    "name": "Berlinale",
+    "description": "Alles zur Berlinale in der 3sat-Mediathek.",
     "urn": "urn:mediathek:3sat:program:berlinale-100",
     "categories": ["culture", "film"]
   },
   {
+    "name": "Bilder aus Südtirol",
+    "description": "Aktuelles und Wissenswertes rund um die Kultur und das gesellschaftspolitische Geschehen in Südtirol",
     "urn": "urn:mediathek:3sat:program:bilder-aus-suedtirol-100",
     "categories": ["reportage", "culture", "society"]
   },
   {
+    "name": "Bosetti Late Night",
+    "description": "In „Bosetti Late Night“ nimmt Sarah Bosetti aktuelle gesellschaftliche Debatten satirisch auseinander und setzt sie mit ihren Gästen wieder neu zusammen. ",
     "urn": "urn:mediathek:3sat:program:bosetti-late-night-100",
     "categories": ["comedy", "talkshow"]
   },
   {
+    "name": "Buchmessen",
+    "description": "3sat auf den Buchmessen Frankfurt, Leipzig und Wien.",
     "urn": "urn:mediathek:3sat:program:buchmesse-100",
     "categories": ["culture"]
   },
   {
+    "name": "Buchzeit",
+    "description": "Viermal jährlich – anlässlich der Buchmessen in Frankfurt und Leipzig, zum Sommer und zu Weihnachten",
     "urn": "urn:mediathek:3sat:program:buchzeit-120",
     "categories": ["culture", "magazine"]
   },
   {
+    "name": "Comedy for Europe",
+    "description": "Die Show beleuchtet humorvoll und kritisch den Kontinent, die Europäische Union und das Leben in verschiedenen Ländern.",
     "urn": "urn:mediathek:3sat:program:comedy-for-europe-108",
     "categories": ["comedy"]
   },
   {
+    "name": "Da will ich hin!",
+    "description": "Simin Sadeghi oder Michael Friemel nehmen sie mit auf eine Reise. Hier sehen Sie die tollsten Sehenswürdigkeiten, faszinierendsten Landschaften und lernen die Kulinarik der Ziele kennen.",
     "urn": "urn:mediathek:3sat:program:da-will-ich-hin-102",
     "categories": ["travel_nature"]
   },
   {
+    "name": "Das Geheimnis der Meister",
+    "description": "Ein Team von Experten stellt sich der ultimativen Herausforderung. Dabei geht es um die Rekonstruktion verschiedenster Gemälde von unterschiedlichen Künstlern. Die Experten gehen aufs Ganze, um genau das zu tun, was der Meister tat.",
     "urn": "urn:mediathek:3sat:program:das-geheimnis-der-meister-104",
     "categories": ["documentary", "culture", "knowledge"]
   },
   {
+    "name": "Das literarische Quartett",
+    "description": "Thea Dorn diskutiert mit drei Literaturexpert*innen über aktuelle Bücher: Welche Titel sind lesenswert? Was ist gesellschaftlich oder ästhetisch relevant? Auch als Podcast bei Deutschlandfunk Kultur.",
     "urn": "urn:mediathek:3sat:program:das-literarische-quartett-108",
     "categories": ["culture", "talkshow"]
   },
   {
+    "name": "Der Äquator - Breitengrad der Extreme ",
+    "description": "Die fünfteilige Dokumentationsreihe umrundet den Globus und stösst in einige der faszinierendsten Regionen der Erde vor.",
     "urn": "urn:mediathek:3sat:program:der-aequator-breitengrad-der-extreme-108",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Der Deutsche Fernsehpreis",
+    "description": "Am 24. und 25. September 2024 wird in Köln zum 25. Mal der Deutsche Fernsehpreis verliehen.",
     "urn": "urn:mediathek:3sat:program:der-deutsche-fernsehpreis-100",
     "categories": ["show", "culture"]
   },
   {
+    "name": "Der Geschmack Europas ",
+    "description": "Eine Geschmacksreise durch Europa.",
     "urn": "urn:mediathek:3sat:program:der-geschmack-europas-100",
     "categories": ["travel_nature", "lifestyle"]
   },
   {
+    "name": "Der Sagenjäger ",
+    "description": "Schauspieler Max Müller begibt sich als der Sagenjäger in diesem Format auf die Suche nach Sagen und Sagenhaftem, nach Mythen und Fabelwesen - und den wahren Geschichten dahinter.",
     "urn": "urn:mediathek:3sat:program:der-sagenjaeger-102",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Der ZDF Comedy Sommer",
+    "description": "In hochkarätig besetzten Shows zeigen die Stars der deutschen Stand-up-Comedy, was sie am besten können: großartig unterhalten. Dabei sind unter anderem Till Reiners, Tahnee und Olaf Schubert.",
     "urn": "urn:mediathek:3sat:program:der-zdf-comedy-sommer-102",
     "categories": ["comedy", "show"]
   },
   {
+    "name": "Die großen Frauen der Kunst",
+    "description": "Zunehmend nutzen immer mehr Künstlerinnen die Wechselwirkung aus Kunst, Medien und Öffentlichkeit. Gerade in Zeiten von Social Media spielt das eine immer größere Rolle.",
     "urn": "urn:mediathek:3sat:program:die-grossen-frauen-der-kunst-108",
     "categories": ["documentary", "culture"]
   },
   {
+    "name": "DocuMe",
+    "description": "Porträts von Menschen in Veränderungsprozessen",
     "urn": "urn:mediathek:3sat:program:docume-106",
     "categories": ["documentary", "society"]
   },
   {
+    "name": "Dokumentarfilm",
+    "description": "Dokfilme - seit mehr als 25 Jahren ein fester Bestandteil des 3sat-Programms.",
     "urn": "urn:mediathek:3sat:program:dokumentarfilm-100",
     "categories": ["documentary"]
   },
   {
+    "name": "Dokumentarfilmzeit",
+    "description": "Der regelmäßige Sendeplatz für Dokumentarfilme in 3sat, montags um 22.25 Uhr",
     "urn": "urn:mediathek:3sat:program:dokumentarfilmzeit-100",
     "categories": ["documentary"]
   },
   {
+    "name": "Geschichts-Dokumentationen",
+    "description": "Geschichtsdokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:geschichte-100",
     "categories": ["documentary", "knowledge"]
   },
   {
+    "name": "Natur-Dokumentationen",
+    "description": "Naturdokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:natur-100",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Reise-Dokumentationen",
+    "description": "Reisedokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:reise-100",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Spannende Doku-Reihen ",
+    "description": "Lass dich inspirieren und tauche ein in die Welt unserer Dokumentationen - Erlebe spannende Doku-Reihen jederzeit online!",
     "urn": "urn:mediathek:3sat:program:komplette-reihen-100",
     "categories": ["documentary"]
   },
   {
+    "name": "Tier-Dokumentationen",
+    "description": "Tierdokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:tiere-100",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "druckfrisch",
+    "description": "Denis Scheck stellt Ihnen die besten Romane, Sachbücher und natürlich die Schriftsteller zu diesen vor. Außerdem nimmt er die aktuellen Bestseller unter die Lupe. Mit \"druckfrisch\" entdecken Sie die Welt der Bücher.",
     "urn": "urn:mediathek:3sat:program:druckfrisch-142",
     "categories": ["culture", "magazine"]
   },
   {
+    "name": "Einfach Mensch!",
+    "description": "Einblicke in die Lebenswelten von Menschen mit Behinderung",
     "urn": "urn:mediathek:3sat:program:einfach-mensch-106",
     "categories": ["documentary", "society"]
   },
   {
+    "name": "Ella Schön",
+    "description": "Humorvolle Serie um eine Asperger-Autistin",
     "urn": "urn:mediathek:3sat:program:ella-schoen-100",
     "categories": ["series"]
   },
   {
+    "name": "erLesen",
+    "description": "Mit Biss und Charme begrüßt Heinz Sichrovsky Prominente und Autorinnen und Autoren zum Literaturgespräch. Im ORF-III-Büchermagazin wird über Lieblingslektüre, aktuelles Tagesgeschehen, Historisches und auch sehr Persönliches gesprochen.",
     "urn": "urn:mediathek:3sat:program:erlesen-106",
     "categories": ["culture", "magazine", "talkshow"]
   },
   {
+    "name": "Esskulturen",
+    "description": "Regionale Kochstile und kulinarische Spezialitäten aus Deutschland, Österreich und der Schweiz.",
     "urn": "urn:mediathek:3sat:program:esskulturen-102",
     "categories": ["lifestyle", "travel_nature"]
   },
-  {"urn": "urn:mediathek:3sat:program:fernsehfilm-100", "categories": ["film"]},
   {
+    "name": "Fernsehfilm",
+    "description": "Einzelfilme und Mehrteiler ",
+    "urn": "urn:mediathek:3sat:program:fernsehfilm-100",
+    "categories": ["film"]
+  },
+  {
+    "name": "freizeit",
+    "description": "Seit 1991 erfinden wir die Freizeit zwar nicht neu, zeigen sie aber anders.",
     "urn": "urn:mediathek:3sat:program:freizeit-110",
     "categories": ["magazine", "lifestyle"]
   },
   {
+    "name": "Geraubte Schätze - wem gehört das koloniale Erbe?",
+    "description": "Wem gehört das koloniale Erbe?",
     "urn": "urn:mediathek:3sat:program:geraubte-schaetze-112",
     "categories": ["documentary", "culture", "society"]
   },
   {
+    "name": "Geschichts-Dokumentationen",
+    "description": "Geschichtsdokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:geschichte-100",
     "categories": ["documentary", "knowledge"]
   },
   {
+    "name": "Gestern waren wir noch Kinder",
+    "description": "Dramaserie über den Niedergang einer Vorzeigefamilie und das Ende der Unbekümmertheit",
     "urn": "urn:mediathek:3sat:program:gestern-waren-wir-noch-kinder-104",
     "categories": ["series"]
   },
   {
+    "name": "Gute Unterhaltung mit Pierre M. Krause",
+    "description": "Keine Showtreppe, keine Baggerwette, keine Explosionen – Pierre M. Krause macht einfach das, was er am besten kann: Gute Unterhaltung. An seinem Talk-Tisch treffen Promi-Anekdoten und grimmepreisverdächtige Gags aufeinander. Und dann wären da noch die mysteriösen Überraschungsgäste…",
     "urn": "urn:mediathek:3sat:program:gute-unterhaltung-108",
     "categories": ["show", "comedy"]
   },
   {
+    "name": "Harter Brocken",
+    "description": "Der eigenbrötlerische Kommissar Frank Koops ermittelt dort, wo Hexen ums Feuer tanzen: im Harz. Der Hobbyschnitzer kennt den Brocken wie kein anderer und versteht seine geheimen Zeichen zu deuten, wodurch er stets die Oberhand behält.",
     "urn": "urn:mediathek:3sat:program:harter-brocken-122",
     "categories": ["crime", "film"]
   },
   {
+    "name": "Hessen à la carte",
+    "description": "Eine kulinarische Reise durch Hessen mit vielen hessischen Gerichten und modernen regionalen Rezepten.",
     "urn": "urn:mediathek:3sat:program:hessen-a-la-carte-134",
     "categories": ["lifestyle", "travel_nature"]
   },
   {
+    "name": "Im Netz der Camorra",
+    "description": "Sechsteilige Mafia-Serie mit Tobias Moretti",
     "urn": "urn:mediathek:3sat:program:im-netz-der-camorra-112",
     "categories": ["series", "crime"]
   },
   {
+    "name": "Kabarett aus Franken",
+    "description": "Mit rasanten Stand-Up-Nummern, immer am Puls der Zeit, mit bissiger Ironie, schräg, intelligent, anspruchsvoll und mit jeder Menge Zwerchfell-Attacken - so präsentiert sich \"Kabarett aus Franken\".",
     "urn": "urn:mediathek:3sat:program:kabarett-aus-franken-144",
     "categories": ["comedy"]
   },
   {
+    "name": "Kafka",
+    "description": "Zum 100. Todestag eines der faszinierendsten und bekanntesten Schriftsteller deutscher Sprache wird Kafkas Leben in sechs Episoden aus unterschiedlichen Perspektiven und in innovativer Bildsprache erzählt.",
     "urn": "urn:mediathek:3sat:program:kafka-114",
     "categories": ["series", "culture"]
   },
   {
+    "name": "Katie Fforde",
+    "description": "Melodramen und Liebesfilme an der Ostküste der USA",
     "urn": "urn:mediathek:3sat:program:katie-fforde-100",
     "categories": ["film"]
   },
   {
+    "name": "Kaminer Inside",
+    "description": "Auf Entdeckungstour mit einem neugierigen Wladimir Kaminer.",
     "urn": "urn:mediathek:3sat:program:kaminer-inside-100",
     "categories": ["reportage", "travel_nature"]
   },
   {
+    "name": "Kann ich mit KI …?",
+    "description": "Wie verändert Künstliche Intelligenz die Gesellschaft? Für die dreiteilige Doku Reportage versucht Eric Mayer mit KI die Grenzen des Möglichen zu übertreffen.",
     "urn": "urn:mediathek:3sat:program:kann-ich-mit-ki-102",
     "categories": ["documentary", "knowledge", "society"]
   },
   {
+    "name": "kinokino",
+    "description": "Die Magazinsendung hält Sie über alles auf dem Laufenden, was auf der Leinwand geschieht. ",
     "urn": "urn:mediathek:3sat:program:kinokino-100",
     "categories": ["magazine", "film", "culture"]
   },
   {
+    "name": "Junge Kurzfilme bei 3sat – KlassiXS",
+    "description": "Die großen Stoffe der dramatischen Weltliteratur, umgesetzt in Kurzfilme. ",
     "urn": "urn:mediathek:3sat:program:klassixs-100",
     "categories": ["film", "culture"]
   },
   {
+    "name": "Klosterküche",
+    "description": "Das Leben im Kloster ist nicht nur von Gesang und Gebet bestimmt, es wird auch ganz wunderbar gekocht. Pastorin Annette Behnken besucht norddeutsche Klöster, Konvente und Damenstifte und stellt deren ganz eigene Küche vor. ",
     "urn": "urn:mediathek:3sat:program:klosterkueche-106",
     "categories": ["lifestyle", "travel_nature"]
   },
-  {"urn": "urn:mediathek:3sat:program:kroymann-114", "categories": ["comedy"]},
   {
+    "name": "Kroymann",
+    "description": "Maren Kroymann und ihr satirischer Blick auf Frau und Mann, auf Alt und Jung, auf Politik und Gesellschaft.",
+    "urn": "urn:mediathek:3sat:program:kroymann-114",
+    "categories": ["comedy"]
+  },
+  {
+    "name": "Kulturdoku",
+    "description": "Musik, Kunst, Literatur, Politik - die ganze Vielfalt von Kultur.",
     "urn": "urn:mediathek:3sat:program:kulturdoku-100",
     "categories": ["documentary", "culture"]
   },
   {
+    "name": "Kulturplatz",
+    "description": "Hinein ins pralle Leben: Kulturplatz greift auf, was  Menschen beschäftigt, welche Fragen sie sich stellen.",
     "urn": "urn:mediathek:3sat:program:kulturplatz-114",
     "categories": ["magazine", "culture", "society"]
   },
   {
+    "name": "Kulturzeit",
+    "description": "Das Fernsehfeuilleton von ZDF, ORF, SRF und ARD, montags bis freitags, live ab 19.20 Uhr.",
     "urn": "urn:mediathek:3sat:program:kulturzeit-100",
     "categories": ["magazine", "culture"]
   },
   {
+    "name": "Kunst + Krempel",
+    "description": "Eine Kultsendung, die vor über 35 Jahren als Fernsehflohmarkt begann.",
     "urn": "urn:mediathek:3sat:program:kunst-und-krempel-100",
     "categories": ["culture", "lifestyle"]
   },
   {
+    "name": "Ländermagazin",
+    "description": "Das Ländermagazin berichtet wöchentlich über interessante, regionale und überregionale Ereignisse in Deutschland. ",
     "urn": "urn:mediathek:3sat:program:laendermagazin-100",
     "categories": ["magazine", "reportage"]
   },
   {
+    "name": "Lederstrumpf",
+    "description": "Frei nach den Romanen von James Fenimore Cooper erzählt der vierteilige Fernsehfilm aus dem Jahr 1969 die Abenteuer von \"Lederstrumpf\"",
     "urn": "urn:mediathek:3sat:program:lederstrumpf-114",
     "categories": ["series"]
   },
   {
+    "name": "Liebes Tagebuch",
+    "description": "Eine Reality-Show der etwas anderen Art: Vier Laien lesen im Theater an der Gumpendorfer Straße vor Publikum aus ihren alten Tagebüchern. Das Publikum vor Ort entscheidet über die GewinnerIn des Abends.",
     "urn": "urn:mediathek:3sat:program:liebes-tagebuch-106",
     "categories": ["show", "society"]
   },
   {
+    "name": "Literaturclub",
+    "description": "Orientierung im Markt der Bücher - spannende, kontroverse Gespräche ",
     "urn": "urn:mediathek:3sat:program:literaturclub-176",
     "categories": ["culture", "talkshow"]
   },
   {
+    "name": "Literatur to Go",
+    "description": "Junge Schauspielerinnen und Schauspieler lesen in Kurzfilmen aus dem österreichischen Literaturkanon. ",
     "urn": "urn:mediathek:3sat:program:literatur-to-go-102",
     "categories": ["culture"]
   },
   {
+    "name": "MAKRO",
+    "description": "MAKRO berichtet aus dem globalen Wirtschaftsdschungel. Mit Blick für den Menschen und fürs Detail und immer auch für die globalen Zusammenhänge.",
     "urn": "urn:mediathek:3sat:program:makro-100",
     "categories": ["documentary", "knowledge", "society"]
   },
   {
+    "name": "Maria Wern - Kripo Gotland",
+    "description": "Die Krimireihe basiert auf den Romanen der schwedischen Bestsellerautorin Anna Jansson. Im Mittelpunkt steht die verwitwete Kommissarin Maria Wern, die ihren Spürsinn ihrem Alltag als alleinerziehende Mutter verdankt.",
     "urn": "urn:mediathek:3sat:program:maria-wern-106",
     "categories": ["series", "crime"]
   },
   {
+    "name": "Marie fängt Feuer",
+    "description": "Jeder Einsatz ein Schicksal - Spannende und emotionale Geschichten um Marie und die Freiwillige Feuerwehr.",
     "urn": "urn:mediathek:3sat:program:marie-faengt-feuer-116",
     "categories": ["series"]
   },
   {
+    "name": "Mit Herz am Herd",
+    "description": "Keine Angst vorm Kochen hat die fröhliche Truppe um Sternekoch Cliff Hämmerle. Seine Azubis Verena Sierra und Michael Koch stehen \"Mit Herz am Herd\" und bereiten Gerichte zu, die Lust auf regionale Küche machen.",
     "urn": "urn:mediathek:3sat:program:mit-herz-am-herd-140",
     "categories": ["lifestyle", "food_cooking"]
   },
   {
+    "name": "Mitternachtsspitzen",
+    "description": "Die am längsten existierende Kabarettsendung im deutschsprachigen Fernsehen. ",
     "urn": "urn:mediathek:3sat:program:mitternachtsspitzen-114",
     "categories": ["comedy"]
   },
   {
+    "name": "Morgen hör ich auf",
+    "description": "Mini-Serie um einen Familienvater, der zum Falschgelddrucker wird.",
     "urn": "urn:mediathek:3sat:program:morgen-hoer-ich-auf-106",
     "categories": ["series", "crime"]
   },
   {
+    "name": "Museums-Check",
+    "description": "Das Museum als sinnlicher Erlebnisort - Markus Brock gibt spannende Einblicke vor und hinter die Kulissen und trifft in jeder Folge einen prominenten Überraschungsgast.",
     "urn": "urn:mediathek:3sat:program:museumscheck-100",
     "categories": ["culture", "knowledge"]
   },
-  {"urn": "urn:mediathek:3sat:program:musik-100", "categories": ["music"]},
   {
+    "name": "Musik",
+    "description": "Ob Klassik oder Rock, Oper oder Jazz: Musik in der 3sat-Mediathek.",
+    "urn": "urn:mediathek:3sat:program:musik-100",
+    "categories": ["music"]
+  },
+  {
+    "name": "NANO",
+    "synonyms": ["3sat nano"],
+    "description": "NANO sucht nach neusten Erkenntnissen der Forschung und liefert tagesaktuell wissenschaftliche Hintergründe.",
     "urn": "urn:mediathek:3sat:program:nano-100",
     "categories": ["knowledge", "magazine"]
   },
   {
+    "name": "Natur-Dokumentationen",
+    "description": "Naturdokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:natur-100",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Natur im Garten",
+    "description": "Tipps und Tricks für den grünen Daumen: Das Magazin mit dem Gartenexperten Karl Ploberger mit einem bunten Mix aus Service und Wissenswertem über naturnahes Gärtnern.",
     "urn": "urn:mediathek:3sat:program:natur-im-garten-176",
     "categories": ["lifestyle"]
   },
   {
+    "name": "Philosophisches Kopfkino",
+    "description": "Kurz, knapp & bunt: Utopia, Glaube, Ethik, Idealismus oder auch Existenzialismus - wir sagen, was sich dahinter verbirgt.",
     "urn": "urn:mediathek:3sat:program:philosophisches-kopfkino-102",
     "categories": ["knowledge", "society"]
   },
   {
+    "name": "Politik und Gesellschaft",
+    "description": "Talks, Dokus, Reportagen. ",
     "urn": "urn:mediathek:3sat:program:politik-und-gesellschaft-100",
     "categories": ["talkshow", "documentary", "reportage", "society"]
   },
   {
+    "name": "Pop Around @ Bauhaus",
+    "description": "Konzertreihe aus dem Bauhaus in Dessau mit verschiedensten Künstlern",
     "urn": "urn:mediathek:3sat:program:pop-around-bauhaus-104",
     "categories": ["music", "show"]
   },
   {
+    "name": "Pop Around the Clock",
+    "description": "Pop, Rock, Funk & Soul - zum Sehen, Hören, Tanzen, wann und wo Du willst.",
     "urn": "urn:mediathek:3sat:program:pop-around-the-clock-100",
     "categories": ["music"]
   },
   {
+    "name": "Pratersterne",
+    "description": "In der Roten Bar des Volkstheaters wird gelacht, gelästert, musiziert und angestoßen. Und über das gelacht, was uns Angst macht. Es sind goldene Zeiten für schwarzen Humor. ",
     "urn": "urn:mediathek:3sat:program:pratersterne-100",
     "categories": ["comedy", "show"]
   },
   {
+    "name": "Praxis mit Meerblick",
+    "description": "Mit ihrem schlagfertigen Ruhrpott-Charme eckt Tanja Wedhorn alias Nora Kaminski in der Komödienreihe \"Praxis mit Meerblick\" immer wieder bei den Einheimischen auf der Ostseeinsel Rügen an.",
     "urn": "urn:mediathek:3sat:program:praxis-mit-meerblick-104",
     "categories": ["series"]
   },
   {
+    "name": "puzzle",
+    "description": "Viele Kulturen - ein Land",
     "urn": "urn:mediathek:3sat:program:puzzle-106",
     "categories": ["reportage", "society"]
   },
   {
+    "name": "quer",
+    "description": "Das satirische Wochenmagazin \"quer\" präsentiert ungewöhnliche Blicke auf das Zeitgeschehen. Kritisch und informativ, aber auch bissig und direkt führt Moderator Christoph Süß durch die Themen der Woche.",
     "urn": "urn:mediathek:3sat:program:quer-100",
     "categories": ["comedy", "magazine"]
   },
   {
+    "name": "Querbeet",
+    "description": "Wissen um Aussehen, Pflege und Verwendung der Pflanzen und macht Lust, es selbst auszuprobieren.",
     "urn": "urn:mediathek:3sat:program:querbeet-108",
     "categories": ["lifestyle", "travel_nature"]
   },
   {
+    "name": "Rabiat",
+    "description": "Rabiat ist das junge Reportageformat von Radio Bremen und dem SWR für die ARD mit rabiaten Geschichten aus den Blickwinkeln junger Autorinnen und Autoren. Sie wollen Haltung zeigen, Emotionen auslösen und die relevanten und kontroversen Themen ihrer Generation angehen.  ",
     "urn": "urn:mediathek:3sat:program:rabiat-102",
     "categories": ["reportage", "society"]
   },
   {
+    "name": "rec.",
+    "description": "«rec.» steht für «record». Reporter:innen berichten über Themen, die sie selbst und die Community bewegen. Sie gehen dorthin, wo es etwas zu ent- oder aufdecken gibt und zeigen die Welt so, wie sie auffinden: echt, ohne Filter, aufgenommen im Moment. «rec.» liefert Gesprächsstoff, denn die Themen sind kontrovers und wecken Emotionen. ",
     "urn": "urn:mediathek:3sat:program:rec-100",
     "categories": ["reportage", "society"]
   },
   {
+    "name": "Rechtsanwalt Vernau",
+    "description": "Jan Josef Liefers ermittelt als Rechtsanwalt Joachim Vernau.",
     "urn": "urn:mediathek:3sat:program:rechtsanwalt-vernau-100",
     "categories": ["series", "crime"]
   },
   {
+    "name": "Reise-Dokumentationen",
+    "description": "Reisedokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:reise-100",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Reporter",
+    "description": "Menschen, Schicksale, Abenteuer",
     "urn": "urn:mediathek:3sat:program:reporter-100",
     "categories": ["reportage"]
   },
   {
+    "name": "Rockpalast Crossroads",
+    "description": "Von Anfang an war er mehr als nur eine Fernsehsendung: Aus dem Befreiungsschlag der Rockfans wurde eine Institution, ein Kult-Programm.",
     "urn": "urn:mediathek:3sat:program:rockpalast-crossroads-176",
     "categories": ["music", "show"]
   },
   {
+    "name": "Rundschau",
+    "description": "Reportagen und Magazinberichte nah am Geschehen in Politik, Wirtschaft und Gesellschaft, oft mitten drin, ohne die kritisch-journalistische Distanz zu verlieren.",
     "urn": "urn:mediathek:3sat:program:rundschau-100",
     "categories": ["reportage", "magazine", "news"]
   },
   {
+    "name": "Schätze der Welt",
+    "description": "Erfahren Sie mehr über Welterbe der Unesco. ",
     "urn": "urn:mediathek:3sat:program:schaetze-der-welt-100",
     "categories": ["documentary", "travel_nature", "culture"]
   },
   {
+    "name": "Schlachthof",
+    "description": "Einmal im Monat liefern Michael Altinger und Christian Springer 45 Minuten rasante Live-Satire aus dem Münchner Schlachthof.",
     "urn": "urn:mediathek:3sat:program:schlachthof-kabarett-muenchen-100",
     "categories": ["comedy"]
   },
   {
+    "name": "SCHULD",
+    "description": "Die Reihe basiert auf den Kurzgeschichten des Strafverteidigers und Schriftstellers Ferdinand von Schirach und befasst sich damit, wie schwer es ist, die Schuld eines Menschen zu wiegen. ",
     "urn": "urn:mediathek:3sat:program:schuld-100",
     "categories": ["series", "crime", "society"]
   },
   {
+    "name": "Schwarzach 23",
+    "description": "Ein bayerischer Familienwestern, der mit Humor und Melancholie Krimigeschichten rund um die ungewöhnliche Polizistenfamilie Germinger erzählt - mit all ihren Irrungen und Wirrungen.",
     "urn": "urn:mediathek:3sat:program:schwarzach-23-106",
     "categories": ["series", "crime", "comedy"]
   },
   {
+    "name": "SCHWEIZWEIT",
+    "description": "Filme und Reportagen mit Impressionen aus den verschiedenen Regionen der Schweiz.\r\n",
     "urn": "urn:mediathek:3sat:program:schweizweit-100",
     "categories": ["reportage", "travel_nature"]
   },
   {
+    "name": "Science Dates",
+    "description": "NANO trifft Forschende, die sich mit den drängendsten Themen unserer Zeit befassen – Klimakrise, Gesundheitssystem, Friedensforschung, Digitalisierung und Altern.",
     "urn": "urn:mediathek:3sat:program:science-dates-102",
     "categories": ["knowledge", "talkshow"]
   },
   {
+    "name": "Science Talk",
+    "description": "Hier bekommt die Wissenschaft eine Bühne: Fachleute aus verschiedenen Bereichen geben in 30minütigen Talks spannende Einblicke in ihre neuen Forschungen.",
     "urn": "urn:mediathek:3sat:program:science-talk-100",
     "categories": ["knowledge", "talkshow"]
   },
   {
+    "name": "scobel",
+    "description": "Wissenschaftstalk mit Gert Scobel - immer donnerstags um 21.00 Uhr",
     "urn": "urn:mediathek:3sat:program:scobel-100",
     "categories": ["knowledge", "talkshow"]
   },
   {
+    "name": "Seenland Österreich",
+    "description": "Österreich - ein Land der Seen! Nicht weniger als 25.000 Seen gibt es in Österreich. Die  Dokureihe widmet sich den schönsten Seen, den tiefsten, den größten und den kleinsten Seen. Aber auch der Wasserwelt der einzelnen Gewässer, den Orten an ihren Ufern und deren Bewohnern, deren Traditionen.",
     "urn": "urn:mediathek:3sat:program:seenland-oesterreich-106",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Sehen statt Hören",
+    "description": "Die einzige Sendereihe in der deutschen Fernsehlandschaft, die im Bild sichtbar macht, was man sonst nur im Ton hört! ",
     "urn": "urn:mediathek:3sat:program:sehen-statt-hoeren-108",
     "categories": ["documentary", "society"]
   },
-  {"urn": "urn:mediathek:3sat:program:serien-100", "categories": ["series"]},
   {
+    "name": "Serien",
+    "description": "Aktuelle Serien inklusive Videos, Online-Specials und vieles mehr.",
+    "urn": "urn:mediathek:3sat:program:serien-100",
+    "categories": ["series"]
+  },
+  {
+    "name": "Servicezeit",
+    "description": "Wirklich praktisch? Wirklich lecker? Die Servicezeit macht Ihren Alltag leichter! \r\n",
     "urn": "urn:mediathek:3sat:program:servicezeit-100",
     "categories": ["lifestyle", "magazine"]
   },
-  {"urn": "urn:mediathek:3sat:program:spielfilm-100", "categories": ["film"]},
   {
+    "name": "Spielfilm",
+    "description": "Filmkunst und großes, unterhaltsames Kino",
+    "urn": "urn:mediathek:3sat:program:spielfilm-100",
+    "categories": ["film"]
+  },
+  {
+    "name": "Starke Stücke: Theatertreffen 2025",
+    "description": "In diesem Jahr werden wieder mutige, kritische und unterhaltsame Inszenierungen von dem größten deutschen Theaterfestival in Berlin gezeigt.",
     "urn": "urn:mediathek:3sat:program:starke-stuecke-106",
     "categories": ["culture"]
   },
   {
+    "name": "Sternstunde Philosophie",
+    "description": "Die \"Sternstunde Philosophie\" pflegt den vertieften und kritischen Ideenaustausch und geht den brennenden Fragen unserer Zeit auf den Grund. ",
     "urn": "urn:mediathek:3sat:program:sternstunde-philosophie-100",
     "categories": ["knowledge", "society", "talkshow"]
   },
   {
+    "name": "Stöckl",
+    "description": "Barbara Stöckl im Gespräch mit prominenten Persönlichkeiten über ihre spannenden Lebensgeschichten. ",
     "urn": "urn:mediathek:3sat:program:stoeckl-100",
     "categories": ["talkshow", "society"]
   },
   {
+    "name": "Stolperstein",
+    "description": "Die Doku-Reihe porträtiert Menschen mit körperlichen, geistigen oder psychischen Handicaps, erzählt ihre Geschichte und begleitet sie in ihrem Alltag. ",
     "urn": "urn:mediathek:3sat:program:stolperstein-112",
     "categories": ["documentary", "society"]
   },
   {
+    "name": "Tage der deutschsprachigen Literatur",
+    "description": "Der Ingeborg-Bachmann-Preis wurde 1976 von der Stadt Klagenfurt im Gedenken an die Schriftstellerin Ingeborg Bachmann gestiftet und wird seit 1977 jährlich während der Tage der deutschsprachigen Literatur verliehen. Er gilt als eine der wichtigsten literarischen Auszeichnungen im deutschen Sprachraum.",
     "urn": "urn:mediathek:3sat:program:tage-der-deutschsprachigen-literatur-110",
     "categories": ["culture"]
   },
   {
+    "name": "Taunuskrimi",
+    "description": "Die Kommissarin Pia Kirchhoff und ihr Kollege Oliver von Bodenstein nähern sich mit viel Gespür Verdächtigen und menschlichen Abgründen. ",
     "urn": "urn:mediathek:3sat:program:taunuskrimi-102",
     "categories": ["series", "crime"]
   },
   {
+    "name": "Terra X",
+    "description": "Verschollene Kulturen, rätselhafte Mythen und spannende Geschichte.",
     "urn": "urn:mediathek:3sat:program:terra-x-102",
     "categories": ["documentary", "knowledge"]
   },
   {
+    "name": "Terra X History",
+    "description": "Zeitgeschichte hautnah - im Dokuformat. ",
     "urn": "urn:mediathek:3sat:program:zdf-history-102",
     "categories": ["documentary", "knowledge"]
   },
   {
+    "name": "Theater & Tanz",
+    "description": "Die faszinierende Welt der Bühnen.",
     "urn": "urn:mediathek:3sat:program:theater-und-tanz-100",
     "categories": ["culture"]
   },
   {
+    "name": "The True Story  of",
+    "description": "Wer sind die Promis wirklich?",
     "urn": "urn:mediathek:3sat:program:the-true-story-of-100",
     "categories": ["documentary", "culture"]
   },
   {
+    "name": "Tier-Dokumentationen",
+    "description": "Tierdokumentationen aller Art.",
     "urn": "urn:mediathek:3sat:program:tiere-100",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Till Reiners' Happy Hour",
+    "description": "Endlich wieder Happy Hour! Ob bissige Satire, Comedy oder Musik, Stars oder Newcomer - hier hat alles seinen Platz, was Spaß macht. ",
     "urn": "urn:mediathek:3sat:program:till-reiners-happy-hour-110",
     "categories": ["comedy", "show"]
   },
   {
+    "name": "Trailer Park",
+    "description": "Durch bewusstes Kopieren und neu Zusammenstellen von Fundstücken aus dem Netz schafft Moritz Ostruschnjak in Trailer Park einen eigenen Kosmos.",
     "urn": "urn:mediathek:3sat:program:trailer-park-102",
     "categories": ["culture"]
   },
   {
+    "name": "UNKRAUT",
+    "description": "Modern, frisch und widerborstig berichtet die Sendung über neueste Entwicklungen im Umwelt- und Naturschutz.",
     "urn": "urn:mediathek:3sat:program:unkraut-sendung-100",
     "categories": ["lifestyle", "knowledge"]
   },
   {
+    "name": "Was gibt es Neues?",
+    "description": "Das Comedy-Quiz mit Oliver Baier.",
     "urn": "urn:mediathek:3sat:program:was-gibt-es-neues-144",
     "categories": ["comedy", "show"]
   },
   {
+    "name": "Wasserwunderwelt Schweiz",
+    "description": "Land der Seen, Land der Flüsse. Im Wasser ist die Schweiz in ihrem Element. Vom Genfer- an den Zürichsee, vom Rhein an die Aare. Von den Becken der glasklaren Maggia im Tessin zur blaugrünen Lagune des Caumasees. ",
     "urn": "urn:mediathek:3sat:program:wasserwunderwelt-schweiz-114",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "Wiener Stadtansichten",
+    "description": "Wien - Eine Stadt, die viele Geschichten zu erzählen hat und ein Besuch, der sich jederzeit lohnt.",
     "urn": "urn:mediathek:3sat:program:wiener-stadtansichten-106",
     "categories": ["documentary", "travel_nature"]
   },
   {
+    "name": "wissen aktuell",
+    "description": "Themen aus Naturwissenschaften und Geisteswissenschaften, Nachrichten und Berichte zu aktuellen Ereignissen.\r\n\r\n",
     "urn": "urn:mediathek:3sat:program:wissen-aktuell-100",
     "categories": ["knowledge", "news"]
   },
   {
+    "name": "WissenHoch2",
+    "description": "Ein Thema - zwei Formate\r\nWissenschaftdsdoku und scobel - immer donnerstags inder 3Sat-Mediathek",
     "urn": "urn:mediathek:3sat:program:wissenhoch2-110",
     "categories": ["knowledge", "documentary", "talkshow"]
   },
   {
+    "name": "Wissenschaftsdoku",
+    "description": "WissenHoch2: Ein Thema - zwei Formate. Wissenschaftsdoku und scobel, donnerstags ab 20.15 Uhr",
     "urn": "urn:mediathek:3sat:program:wissenschaftsdoku-100",
     "categories": ["documentary", "knowledge"]
   },
   {
+    "name": "ZDF.reportage",
+    "description": "lebensnah, aktuell und unterhaltsam",
     "urn": "urn:mediathek:3sat:program:zdf-reportage-110",
     "categories": ["reportage"]
   },
   {
+    "name": "Zeit im Bild 2 ",
+    "description": "Das tägliche Nachrichtenmagazin des ORF-Fernsehens setzt Schwerpunkte und liefert Hintergründe in Reportagen und investigativen Recherchen zu Politik, Wirtschaft, Wissenschaft, Chronik und Kultur. Ein zentrales Element der Sendung sind ausführliche Studio- oder Schaltgespräche mit Entscheidungsträger*innen und Expert*innen.",
     "urn": "urn:mediathek:3sat:program:zib-100",
     "categories": ["news", "magazine"]
   },
   {
+    "name": "Zu Tisch ...",
+    "description": "Ein kulinarischer Reiseführer",
     "urn": "urn:mediathek:3sat:program:zu-tisch-100",
     "categories": ["travel_nature", "lifestyle"]
   },
   {
+    "name": "10 vor 10",
+    "description": "Das News-Magazin \"10 vor 10\" berichtet von Montag bis Freitag über die Hintergründe zu den Schlagzeilen des Tages aus dem In- und Ausland.",
     "urn": "urn:mediathek:3sat:program:10-vor-10-100",
     "categories": ["news", "magazine"]
   },
   {
+    "name": "3satFestival",
+    "description": "Einmal im Jahr wird Mainz zum Kleinkunst-Mekka. Bühne frei für bissiges Kabarett, beste Comedy, feinsten Poetry Slam ...",
     "urn": "urn:mediathek:3sat:program:3satfestival-100",
     "categories": ["show", "comedy", "culture"]
   },
   {
+    "name": "37 Grad",
+    "description": "Die Sendereihe berichtet aus außergewöhnlicher Perspektive heraus über für unsere Gesellschaft typische Lebenssituationen: die Kamera begleitet eine Gruppe oder einzelne Menschen in meist besonders exponierter sozialer Situation. ",
     "urn": "urn:mediathek:3sat:program:37-grad-102",
     "categories": ["reportage", "society"]
   },
   {
+    "name": "37 Grad Leben",
+    "description": "Das ist das Leben! Lebenspläne und Identität, Partnerschaft und Familie, Sinnsuche und religiöse Orientierung. In den Reportagen erzählen junge Menschen ihre Geschichten. Sie regen zum Nachdenken an über die Vielfalt und die Herausforderungen des Lebens.\r\n",
     "urn": "urn:mediathek:3sat:program:37-grad-leben-100",
     "categories": ["reportage", "society"]
   }

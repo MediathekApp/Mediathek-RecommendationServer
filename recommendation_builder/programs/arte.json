@@ -1,263 +1,402 @@
 [
   {
+    "name": "27 – Das europäische Magazin",
+    "description": "Die europäische Aktualität aus der Sicht der Bürgerinnen und Bürger: mit Debatten, Reportagen und Interviews. Das Politikmagazin „27“ (Moderation: Nora Hamadi) lädt Expertinnen und Experten sowie Angehörige der Zivilgesellschaft aus ganz Europa ein, im Studio über ein per Online-Umfrage ausgewähltes Thema zu debattieren. Jeden Sonntag um 8.50 Uhr auf ARTE oder in arte.tv.",
     "urn": "urn:mediathek:arte:program:RC-022610_de",
     "categories": ["magazine", "talkshow", "society"]
   },
   {
+    "name": "28 Minuten",
+    "description": "Montags bis freitags bezieht eine Persönlichkeit aus der Kulturszene Position zu einem aktuellen Thema. Ungewohnte Sichtweisen auf die Zusammenhänge des Zeitgeschehens aus geschichtlicher, wissenschaftlicher, wirtschaftlicher oder auch politischer Perspektive – Humor und Polemik sind erlaubt.",
     "urn": "urn:mediathek:arte:program:RC-014077_de",
     "categories": ["talkshow", "culture", "society", "comedy"]
   },
   {
+    "name": "360° Reportage",
+    "synonyms": ["360 reportage"],
+    "description": "Farbenfreudige Geschichten, die das Leben schreibt. Reisen, Rituale und Feste mit Menschen aus aller Welt.",
     "urn": "urn:mediathek:arte:program:RC-014120_de",
     "categories": ["reportage", "travel_nature", "society"]
   },
   {
+    "name": "42 - Die Antwort auf fast alles",
+    "description": "Leben wir in einem Multiversum? Wie werden wir beliebt? Und was, wenn der Nordpol zum Südpol wird? Die originelle Wissensserie, erzählt von bekannten Stimmen wie Nora Tschirner, Jördis Triebel, Sibel Kekilli oder Jella Haase, stellt Fragen über Fragen: und zwar nach nichts Geringerem als dem Leben und dem Universum.  Mit wissenschaftlicher Expertise und einem Schuss Humor sucht 42 nach Antworten und Lösungen, wo immer dies möglich ist.",
     "urn": "urn:mediathek:arte:program:RC-021159_de",
     "categories": ["knowledge", "documentary", "comedy"]
   },
   {
+    "name": "ARTE Europa Weekly",
+    "description": "Wo, wie und warum wird in Europa gestreikt? Wie viel Sexismus steckt im Spitzensport? Und können Protestaktionen oder die Energiewende das Klima retten? Treiben euch diese Themen um? Dann seid ihr bei „ARTE Europa Weekly“ genau richtig. Wir fassen jeden Donnerstag zusammen, was Europa gerade bewegt. Und für die Sprachtalente unter euch gibt es die Sendung auch auf Französisch, Englisch und Spanisch.",
     "urn": "urn:mediathek:arte:program:RC-023198_de",
     "categories": ["news", "magazine"]
   },
   {
+    "name": "ARTE JUNIOR DAS MAGAZIN",
+    "description": "Was bewegt die Welt und was bewegt euch? Antworten gibt's in unserer täglichen Nachrichtensendung \"ARTE Journal Junior\" für Kids von 10 bis 14 Jahren und bei \"ARTE Junior, das Magazin\" jeden Sonntag für Nachrichtenfans von 8 bis 12 Jahren. Damit ihr keine Infos mehr verpasst und auf dem Schulhof punkten könnt! Unsere Moderatorinnen und Moderatoren Dorothée Haffner, Frank Rauschendorf, Stefanie Hintzmann, Robert Handrack und Jule Scharr freuen sich auf euch!",
     "urn": "urn:mediathek:arte:program:RC-014082_de",
     "categories": ["kids", "news", "magazine"]
   },
-  {"urn": "urn:mediathek:arte:program:RC-014085_de", "categories": ["news"]},
   {
+    "name": "ARTE Journal",
+    "description": "Die deutsch-französische Redaktion des ARTE Journals berichtet von Montag bis Samstag um 19:20 Uhr und am Sonntag um 19:10 Uhr über das tagesaktuelle politische Geschehen aus europäischer Sicht.",
+    "urn": "urn:mediathek:arte:program:RC-014085_de",
+    "categories": ["news"]
+  },
+  {
+    "name": "ARTE Re:",
+    "description": "Nah dran, authentisch, echt – der Mensch im Mittelpunkt. In 30 Minuten taucht Re: in Lebenswelten ein und macht Europas Vielfalt erlebbar. Von montags bis freitags um 19.40 Uhr und jederzeit im Netz.",
     "urn": "urn:mediathek:arte:program:RC-013956_de",
     "categories": ["reportage", "society"]
   },
   {
+    "name": "ARTE Reportage",
+    "description": "Arte Reportage berichtet über das internationale Zeitgeschehen aus der Sicht der Menschen vor Ort. Außergewöhnliche Einblicke und Blickwinkel. Präsentiert von Andrea Fies und William Irigoyen, jeden Samstag um 17.25 Uhr.\n\n ",
     "urn": "urn:mediathek:arte:program:RC-014123_de",
     "categories": ["reportage"]
   },
   {
+    "name": "Blow up",
+    "description": "Jede Woche wirft das Webmagazin von ARTE einen originellen, informativen und schrägen Blick auf aktuelle Filmereignisse.",
     "urn": "urn:mediathek:arte:program:RC-014095_de",
     "categories": ["magazine", "culture", "film"]
   },
   {
+    "name": "Das Buch meines Lebens",
+    "description": "Was lesen eigentlich die anderen – und warum? Welches Buch war das beste ihres Lebens? Genau darüber wird sich in diesem Literaturformat leidenschaftlich und tiefgründig ausgetauscht. Einmal im Monat trifft die Publizistin und Journalistin Jagoda Marinić Menschen, die erzählen, welche Bücher bei ihnen einfach alles verändert haben.",
     "urn": "urn:mediathek:arte:program:RC-023040_de",
     "categories": ["culture", "talkshow"]
   },
   {
+    "name": "Flick Flack",
+    "description": "Flick Flack – ist ein Kulturphänomen, ein Trend, ein Porträt … locker und witzig, aufgedröselt in 4 Minuten. Flick Flack will neugierig machen und unterhalten und gleichzeitig eine prägende Geschichte aus der Vergangenheit oder unserer Gegenwart erzählen. Über die Aktualität hinaus, interessiert sich Flick Flack für bleibende Ereignisse, große Paukenschläge und Verblüffendes aus verschiedensten Genres: Kino, Musik, Bildende Kunst, Bühne, Architektur, Design, Literatur… Kultur bei ARTE: unterhaltsam und zugänglich. Jeden Mittwoch eine neue Folge.",
     "urn": "urn:mediathek:arte:program:RC-017300_de",
     "categories": ["culture", "magazine", "comedy"]
   },
   {
+    "name": "Geschichte schreiben",
+    "description": "Was hat die Lottokugel mit der Politik des mittelalterlichen Venedigs zu tun? Enthielten Reisepässe schon immer Personenbeschreibungen? Und seit wann isst man in China mit Stäbchen? Im neuen Magazin \"Geschichte schreiben\" begeben sich Historikerinnen und Historiker auf Spurensuche und finden spannende Stories rund um Gegenstände, die Teil unserer Geschichte geworden sind. ",
     "urn": "urn:mediathek:arte:program:RC-020782_de",
     "categories": ["knowledge", "documentary"]
   },
   {
+    "name": "Hypernacht",
+    "description": "\"Hypernacht\" ist eine experimentelle Erfahrung für alle, die nicht schlafen können. Dabei werden die Grenzen des herkömmlichen Fernsehens durch die Sprache der Klänge und Bilder überschritten. Die Zuschauer:innen erleben dabei eine überraschende Annäherung unterschiedlichster Kunstformen.",
     "urn": "urn:mediathek:arte:program:RC-023288_de",
     "categories": ["culture", "show"]
   },
   {
+    "name": "KREATUR, Das feministische Magazin",
+    "description": "Das feministische Magazin KREATUR beleuchtet den Kampf um Frauenrechte rund um den Globus. Was brennt uns Frauen auf der Seele? Welche Ungleichheiten müssen endlich passé sein? Wo erleben wir einen Backlash? Wie überschneiden sich Diskriminierungen? Unsere Redaktion greift jeden Monat ein Thema auf und schaut dann genauer hin - in Reportagen, Interviews, Hintergrundberichten oder auch mit Facts and Figures. ",
     "urn": "urn:mediathek:arte:program:RC-015860_de",
     "categories": ["magazine", "society", "reportage"]
   },
   {
+    "name": "Karambolage",
+    "description": "Ein Wort, ein Gegenstand, ein Ritual – Karambolage erläutert spielerisch und humorvoll die kleinen und großen Unterschiede zwischen Deutschen und Franzosen...",
     "urn": "urn:mediathek:arte:program:RC-014034_de",
     "categories": ["culture", "comedy", "knowledge"]
   },
   {
+    "name": "Kurzschluss",
+    "description": "\"Kurzschluss - Das Magazin\" zeigt jeden Samstag gegen Mitternacht die neuesten Kurzfilme aus aller Welt – und wirft einen Blick hinter die Kulissen: mit Porträts, Drehberichten, aktuellen Festival- und Filmtipps und vielen spannenden Interviews.",
     "urn": "urn:mediathek:arte:program:RC-014513_de",
     "categories": ["film", "magazine", "culture"]
   },
   {
+    "name": "Küchen der Welt",
+    "description": "Pierre Raffard, Geograf und Ernährungswissenschaftler, erzählt Geschichten rund ums Essen und beleuchtet dabei den Einfluss von Austausch, Kolonialisierung und Migration auf die kulinarischen Traditionen. In jeder Folge werden leckere Gerichte aus der ganzen Welt vorgestellt. Köchinnen und Köche rund um den Globus öffnen die Türen ihrer Restaurants oder Streetfood-Stände und gewähren Einblicke in ihre kulinarische Welt.",
     "urn": "urn:mediathek:arte:program:RC-026195_de",
     "categories": ["food_cooking", "travel_nature"]
   },
   {
+    "name": "Mit offenen Augen",
+    "description": "Fotos können unser Weltbild beeinflussen. Und jedes Foto hat eine Entstehungsgeschichte. Das Magazin \"Mit offenen Augen\" ordnet Bilder ein und erklärt Hintergründe. Moderatorin Sonia Devillers liefert faszinierende Aufschlüsse, die über den ersten Blick hinausgehen.",
     "urn": "urn:mediathek:arte:program:RC-023176_de",
     "categories": ["knowledge", "culture", "magazine"]
   },
   {
+    "name": "Mit offenen Daten",
+    "description": "Mit offenen Daten ist eine Reihe von Untersuchungen, die auf der Grundlage von Open-Source-Datenbanken durchgeführt werden.",
     "urn": "urn:mediathek:arte:program:RC-024364_de",
     "categories": ["reportage", "knowledge"]
   },
   {
+    "name": "Mit offenen Karten",
+    "description": "Von der Globalisierung von Krankheiten über das Recht auf Bildung bis hin zum internationalen Terrorismus – wichtige Fragen und Konfliktlagen der Weltpolitik analysiert anhand von Landkarten.",
     "urn": "urn:mediathek:arte:program:RC-014036_de",
     "categories": ["knowledge", "magazine", "news"]
   },
   {
+    "name": "Mit offenen Karten – Im Fokus",
+    "description": "Von Dienstag bis Freitag rückt MIT OFFENEN KARTEN – IM FOKUS täglich dreieinhalb Minuten lang die geopolitische Aktualität in den Brennpunkt.",
     "urn": "urn:mediathek:arte:program:RC-022259_de",
     "categories": ["news", "knowledge"]
   },
   {
+    "name": "Offene Ideen",
+    "description": "Zusammen mit Vordenker*innen aus unterschiedlichen Disziplinen untersuchen Laura Raim und Youness Bousenna in dieser Reihe Fragen, die unsere Gesellschaft beschäftigen und die unter Intellektuellen diskutiert werden.",
     "urn": "urn:mediathek:arte:program:RC-022076_de",
     "categories": ["society", "talkshow", "knowledge"]
   },
   {
+    "name": "Philosophie",
+    "description": "Raphaël Enthoven und seine Gäste diskutieren jede Woche ein neues Thema und verbinden die vermeintlich trockene Literatur der großen Philosophen mit aktuellem Zeitgeschehen.",
     "urn": "urn:mediathek:arte:program:RC-014080_de",
     "categories": ["talkshow", "society", "culture"]
   },
   {
+    "name": "Square",
+    "description": "Immer abwechselnd: Kluge Menschen diskutieren über die Welt im Wandel, das ist \"Idee 3D\". Ein Künstler erzählt, wie die aktuellen Ereignisse der Zeitgeschichte seine Arbeit täglich beeinflussen: das ist \"Square für Künstler\".",
     "urn": "urn:mediathek:arte:program:RC-014078_de",
     "categories": ["talkshow", "society", "culture"]
   },
   {
+    "name": "Stadt Land Kunst",
+    "description": "Jeden Tag eine kleine Pause im Alltag: ARTE lädt täglich auf eine Reise an besondere Orte ein, die sich durch ihr künstlerisches, kulturelles oder landschaftliches Erbe auszeichnen. Von Montag bis Freitag, um 13.00 Uhr.",
     "urn": "urn:mediathek:arte:program:RC-014340_de",
     "categories": ["travel_nature", "culture", "documentary"]
   },
   {
+    "name": "Stimmt es, dass ...?",
+    "description": "Hat die Demokratie ihren Ursprung in Griechenland? War die Pest die schlimmste Epidemie aller Zeiten? Und haben wir früher wirklich härter gearbeitet als heute? Das Geschichtsmagazin \"Stimmt es, dass ...?\" hinterfragt, was wir zu wissen glauben und erzählt Geschichte und die Geschichten dahinter neu – abseits von Eurozentrismus und hartnäckigen Klischees.",
     "urn": "urn:mediathek:arte:program:RC-026488_de",
     "categories": ["knowledge", "magazine", "documentary"]
   },
   {
+    "name": "Streetphilosophy",
+    "description": "Was taugt als Guideline fürs Leben? Wer sind wir und wie wollen wir leben? \"Streetphilosophy\" bringt die wirklich wichtigen Fragen des Lebens dorthin zurück, wo sie entstehen: auf die Straße, unter die Menschen, in die Dönerbuden und Spätis. Vom Denkerstübchen raus auf die Straßen von Kreuzberg und Neukölln.",
     "urn": "urn:mediathek:arte:program:RC-014424_de",
     "categories": ["society", "reportage"]
   },
   {
+    "name": "Tracks",
+    "description": "Tracks zeigt Reportagen über aktuelle Musik, Subkultur und politischen Themen jenseits ausgetretener Pfade.",
     "urn": "urn:mediathek:arte:program:RC-014037_de",
     "categories": ["reportage", "music", "culture", "society"]
   },
   {
+    "name": "Twist",
+    "description": "Jede Woche steht ein uns als Gesellschaft bewegendes Thema im Fokus. Kulturschaffende aus ganz Europa zeigen mit ihren persönlichen Geschichten und künstlerischen Ausdrucksmitteln, wie sie darauf blicken. Sie brechen mit Klischees und erweitern den Horizont. Konzentriert und gut geschüttelt ist TWIST Ihr \"Shot of Culture\" auf ARTE. Eine halbe Stunde voller erfrischend neuer Perspektiven.",
     "urn": "urn:mediathek:arte:program:RC-019950_de",
     "categories": ["culture", "magazine", "society"]
   },
   {
+    "name": "Unhappy",
+    "description": "Wie lässt sich ein glückliches Leben führen? Die Autorin und notorische Zweiflerin Ronja von Rönne begegnet Menschen, die spannende und überraschende Antworten darauf haben. Wer kann sie überzeugen? Ein Format über das Zeitgeist-Thema Glück.",
     "urn": "urn:mediathek:arte:program:RC-024376_de",
     "categories": ["society", "talkshow", "documentary"]
   },
   {
+    "name": "Zu Tisch",
+    "description": "\"Zu Tisch\" besucht unsere europäischen Nachbarn und schaut in die Töpfe. Dabei werden regionale kulinarische Schätze aufgespürt - frisch vom Hof auf den Tisch.",
     "urn": "urn:mediathek:arte:program:RC-014124_de",
     "categories": ["food_cooking", "travel_nature"]
   },
   {
+    "name": "Zu Tisch mit Lucie - Kitchen Hacks",
+    "description": "Viele Zutaten haben eine buntere Geschichte und kreativere Anwendungen, als man auf den ersten Blick vermuten mag. Von der Bergamotte über Aloe Vera bis hin zum Safran: Die junge Köchin Lucie Fischer-Chapalain nimmt sie kulinarisch und wissenschaftlich unter die Lupe. Eine Spurensuche in die Welt der Lebensmittel und Kochtraditionen, gespickt mit kreativen DIY-Rezepten und garniert mit Mut zum Experimentieren.",
     "urn": "urn:mediathek:arte:program:RC-026303_de",
     "categories": ["food_cooking", "knowledge", "lifestyle"]
   },
   {
-    "urn": "urn:mediathek:arte:program:RC-018547_de",
-    "categories": ["music", "documentary"]
-  },
-  {
+    "name": "27",
+    "description": "L’actualité européenne vue par ses citoyens : débats, reportages et entretiens. Le magazine “27”, animé par Nora Hamadi, invite des Européens, experts ou citoyens éclairés à débattre sur un sujet choisi lors d’une consultation citoyenne. Rendez-vous les dimanches à 20h05 sur ARTE et en replay sur arte.tv.",
     "urn": "urn:mediathek:arte:program:RC-022610_fr",
     "categories": ["magazine", "talkshow", "society"]
   },
   {
+    "name": "28 minutes",
+    "description": "\"28 minutes\" est le magazine d’actualité d’ARTE, présenté par Elisabeth Quin du lundi au jeudi à 20h05. Renaud Dély est aux commandes de l'émission le vendredi et le samedi. ",
     "urn": "urn:mediathek:arte:program:RC-014077_fr",
     "categories": ["magazine", "news", "talkshow"]
   },
   {
+    "name": "360° Reportage",
+    "description": "Des histoires passionnantes et des voyages de rêves pour découvrir le monde et rencontrer les petits et grands acteurs de la vie.",
     "urn": "urn:mediathek:arte:program:RC-014120_fr",
     "categories": ["reportage", "travel_nature", "society"]
   },
   {
+    "name": "42 - La réponse à presque tout",
+    "description": "Vivons-nous dans un multivers ? Perdons-nous le contrôle sur l'IA ? Pourquoi pleurons-nous ? Pour le savoir, rendez-vous dans 42, la série documentaire scientifique d’ARTE. Clin d’œil au Guide du voyageur galactique de Douglas Adams dans lequel le nombre 42 apporte la réponse ultime, elle décortique des questions existentielles, et a réponse à tout... ou presque.",
     "urn": "urn:mediathek:arte:program:RC-021159_fr",
     "categories": ["knowledge", "documentary"]
   },
   {
+    "name": "ARTE Europe - l'hebdo",
+    "description": "Le sport de haut niveau est-il sexiste ? Les manifestations peuvent-elles sauver notre climat ? Et pourquoi les Européens font-ils grève ? Restez au fait de ce qui se passe en Europe avec \"ARTE Europe, l’hebdo\". De nouveaux épisodes chaque jeudi - pour les plus doués en langues, non seulement en français et allemand mais aussi en anglais et espagnol.",
     "urn": "urn:mediathek:arte:program:RC-023198_fr",
     "categories": ["news", "magazine"]
   },
   {
+    "name": "ARTE JUNIOR Le magazine",
+    "description": "Tu aimes l’info, tu veux toujours savoir ce qui se passe et tu souhaites découvrir le monde ? Alors, tu es à la bonne adresse ! Notre émission est diffusée tous les matins du lundi au vendredi, mais vous la trouvez aussi sur ce site. Notre émission quotidienne ARTE Journal Junior informe les 10-14 ans sur l’actualité et pour ceux qui veulent voyager même le week-end, il y a ARTE Junior Le Mag, ¼ d’heure de découvertes le dimanche matin. Bon voyage !",
     "urn": "urn:mediathek:arte:program:RC-014082_fr",
     "categories": ["kids", "news", "magazine"]
   },
-  {"urn": "urn:mediathek:arte:program:RC-014085_fr", "categories": ["news"]},
   {
+    "name": "ARTE Journal",
+    "description": "Chaque jour à 19h45, la rédaction franco-allemande d’ARTE Journal propose une approche européenne et culturelle de l’actualité. ",
+    "urn": "urn:mediathek:arte:program:RC-014085_fr",
+    "categories": ["news"]
+  },
+  {
+    "name": "ARTE Regards",
+    "description": "L’Europe dans sa diversité en reportages quotidiens : une plongée dans des réalités inédites, du lundi au vendredi à 13h et à tout moment sur arte.tv",
     "urn": "urn:mediathek:arte:program:RC-013956_fr",
     "categories": ["reportage", "society"]
   },
   {
+    "name": "ARTE Reportage",
+    "description": "Dédié à l’actualité internationale, ARTE Reportage témoigne des soubresauts du monde. Des documents exceptionnels et exclusifs. Présenté par Andrea Fies et William Irigoyen, tous les samedis à 18h50.",
     "urn": "urn:mediathek:arte:program:RC-014123_fr",
     "categories": ["reportage"]
   },
   {
+    "name": "Blow up",
+    "description": "Chaque semaine le web-magazine proposé par Luc Lagier pose un regard ludique et décalé sur le cinéma.                                               \n                                                                                             #archives : Kiyoshi Kurosawa, Fassbinder, Wes Anderson...",
     "urn": "urn:mediathek:arte:program:RC-014095_fr",
     "categories": ["magazine", "culture", "film"]
   },
   {
+    "name": "Court-circuit",
+    "description": "Fictions récentes, films d’animation du monde entier, œuvres à la frontière de l’expérimental... Défricheur de talents et de tendances, Court-circuit explore le cinéma court, tous les samedis autour de minuit.",
     "urn": "urn:mediathek:arte:program:RC-014513_fr",
     "categories": ["film", "magazine", "culture"]
   },
   {
+    "name": "Cuisines des terroirs",
+    "description": "Une approche sensuelle de l’art culinaire « sur le terrain », à la rencontre de celles et ceux qui façonnent la cuisine, là où gastronomie et art de vivre ont leurs racines. Embarquez pour un voyage gustatif à la découverte des coutumes culinaires du monde entier ! ",
     "urn": "urn:mediathek:arte:program:RC-014124_fr",
     "categories": ["food_cooking", "travel_nature"]
   },
   {
+    "name": "Faire l'histoire",
+    "description": "Proposé par Patrick Boucheron, ce rendez-vous d'histoire aborde l'histoire par le prisme des objets. Chaque semaine, des historiennes et des historiens nous racontent la destinée d'un objet, associant récit et analyse. Tout peut « faire l'histoire » : objets en série, génériques, objets uniques, fétiches, matériaux et documents.",
     "urn": "urn:mediathek:arte:program:RC-020782_fr",
     "categories": ["knowledge", "documentary"]
   },
   {
+    "name": "Gymnastique",
+    "description": "Faisons un peu de gymnastique culturelle ! Musclons notre curiosité vers des domaines moins connus, entraînons notre regard vers des personnalités fortes, faisons le pont entre des sujets qui, à priori, ont peu en commun, et surtout relaxons-nous en mettant un peu de culture dans notre quotidien. De Bruegel l’Ancien à \"All your base are belong to us\", Gymnastique renifle l’air du temps, remarque des tendances qui se dessinent, raconte des histoires singulières… Gymnastique, c'est un peu comme l’entrepôt d’un collectionneur d’art dans lequel, où qu’on porte le regard, on trouve quelque chose de surprenant. Chaque mercredi, une nouvelle vidéo. ",
     "urn": "urn:mediathek:arte:program:RC-017300_fr",
     "categories": ["culture", "magazine"]
   },
   {
+    "name": "Hypernuit",
+    "description": "Hypernuit nous convie à un voyage surprenant et dépaysant dans le monde des images et des sons. La création télévisuelle sous toutes ses formes pour un temps suspendu bienvenu. Une émission de l'Atelier de Recherche d'ARTE France, réalisée par Paul Ouazan, à retrouver chaque premier vendredi du mois, après minuit.",
     "urn": "urn:mediathek:arte:program:RC-023288_fr",
     "categories": ["culture", "show"]
   },
   {
+    "name": "Invitation au voyage",
+    "description": "Du lundi au vendredi à 17h20 Linda Lorin nous entraîne autour du monde à la découverte de lieux qui ont inspiré des artistes, de cités et de cultures uniques et nous invite dans les cuisines et les restaurants du monde entier. Le samedi à 16h35, \"Invitation au voyage spécial\" propose une escapade à la découverte d'une ville, d'une région ou d'un pays.",
     "urn": "urn:mediathek:arte:program:RC-014340_fr",
     "categories": ["travel_nature", "culture", "documentary"]
   },
   {
+    "name": "KREATUR, le magazine féministe d’ARTE",
+    "description": "Kreatur met en lumière les combats liés aux droits des femmes autour du globe. Quelles inégalités devraient appartenir au passé ? Comment s'imbriquent les discriminations ? Qu'est-ce qui fait vibrer les femmes ? Chaque mois, la rédaction de Kreatur se penche sur une nouvelle problématique.",
     "urn": "urn:mediathek:arte:program:RC-015860_fr",
     "categories": ["magazine", "society", "reportage"]
   },
   {
+    "name": "Karambolage",
+    "description": "Mots, rites, objets, références… Karambolage propose une anthropologie comparative amusée des autochtones, de part et d’autre du Rhin.",
     "urn": "urn:mediathek:arte:program:RC-014034_fr",
     "categories": ["culture", "comedy", "knowledge"]
   },
   {
+    "name": "Le dessous des cartes",
+    "description": "Le dessous des cartes décrypte les enjeux de notre monde contemporain au moyen de cartes géographiques. Le magazine est présenté par Émilie Aubry. Diffusée à l'antenne tous les vendredis à 19h30, l'émission est disponible en replay et en VOD et DVD.",
     "urn": "urn:mediathek:arte:program:RC-014036_fr",
     "categories": ["knowledge", "magazine", "news"]
   },
   {
+    "name": "Le dessous des cartes - L'essentiel",
+    "description": "Rendez-vous du lundi au jeudi avec \"Le dessous des cartes - L'essentiel\" : un zoom de 2mn30 pour décrypter l'actualité géopolitique internationale...",
     "urn": "urn:mediathek:arte:program:RC-022259_fr",
     "categories": ["news", "knowledge"]
   },
   {
+    "name": "Le dessous des images",
+    "description": "Sonia Devillers raconte avec passion l’histoire d’une photo, d’une image. De sa construction à son impact sur notre vision du monde, comment expliquer sa viralité et ses pouvoirs ? Le magazine “Le dessous des images” propose une interprétation qui nous apprend à voir au-delà du premier regard.",
     "urn": "urn:mediathek:arte:program:RC-023176_fr",
     "categories": ["knowledge", "culture", "magazine"]
   },
   {
+    "name": "Les idées larges",
+    "description": "Accompagnés de chercheuses et chercheurs venus de disciplines variées, Laura Raim et Youness Bousenna explorent dans cette collection documentaire les grands sujets de société et les questionnements qui font débat aujourd'hui dans le champ intellectuel.",
     "urn": "urn:mediathek:arte:program:RC-022076_fr",
     "categories": ["society", "talkshow", "knowledge", "documentary"]
   },
   {
+    "name": "Philosophie",
+    "description": "Des entretiens philosophiques proposés par Raphaël Enthoven. Entre profondeur et légèreté, une réflexion pour penser différemment le quotidien. L'émission est diffusée à l'antenne tous les mardis à 2h35 et visible en replay.",
     "urn": "urn:mediathek:arte:program:RC-014080_fr",
     "categories": ["talkshow", "society", "culture"]
   },
   {
+    "name": "Sources",
+    "description": "Sources explore les failles qui traversent les grands équilibres européens, et va au-delà des versions officielles : manquements aux droits de l’homme, défaillance des institutions, affaires d’Etat, abus de pouvoir ou exploitation criminelle de la planète. Ce magazine numérique d'investigation est une série d’enquêtes menées à partir de bases de données open source.",
     "urn": "urn:mediathek:arte:program:RC-024364_fr",
     "categories": ["reportage", "society", "magazine", "knowledge"]
   },
   {
+    "name": "Square",
+    "description": "Dans \"Idée 3D\", des penseurs et des acteurs de la société débattent sur les changements actuels, sur le monde de demain. Dans \"Square Artiste\", écrivains, cinéastes, peintres, musiciens ou comédiens décryptent les liens qu’ils entretiennent avec l’actualité.",
     "urn": "urn:mediathek:arte:program:RC-014078_fr",
     "categories": ["talkshow", "society", "culture"]
   },
   {
+    "name": "Streetphilosophy",
+    "description": "Streephilosophy descend dans les rues de Berlin, de Neukölln à Kreuzberg, au milieu des gens, dans des döners et des bars de nuit. Dans une ville où l'individualisme règne en maître, où chacun cherche prioritairement son épanouissement personnel, deux questions se posent : qui sommes-nous et comment voulons-nous vivre ?",
     "urn": "urn:mediathek:arte:program:RC-014424_fr",
     "categories": ["society", "reportage"]
   },
   {
+    "name": "Tracks",
+    "description": "Tracks, la culture comme résistance",
     "urn": "urn:mediathek:arte:program:RC-014037_fr",
     "categories": ["reportage", "music", "culture", "society"]
   },
   {
+    "name": "Twist",
+    "description": "Chaque semaine, \"Twist\" aborde une question qui interpelle la société. Des artistes et créateurs de toute l’Europe y réagissent à travers leurs histoires personnelles et leurs moyens d'expression artistiques. Loin des clichés, ils élargissent la focale. \"Twist\" est votre shot culturel sur ARTE avec 30 minutes de perspectives nouvelles et rafraîchissantes.",
     "urn": "urn:mediathek:arte:program:RC-019950_fr",
     "categories": ["culture", "magazine", "society"]
   },
   {
+    "name": "Un livre pour ma vie",
+    "description": "La journaliste Jagoda Marinić rencontre des personnalités et les interroge sur les livres qui ont tout changé.",
     "urn": "urn:mediathek:arte:program:RC-023040_fr",
     "categories": ["culture", "talkshow"]
   },
   {
+    "name": "Unhappy",
+    "description": "Que nous faut-il pour mener une vie heureuse ? Suivez Ronja von Rönne, auteure et \"sceptique\" autoproclamée, dans l'exploration de cette question ancestrale et partez à la rencontre de personnes aux réponses fascinantes ou surprenantes. Un aperçu unique des différentes mentalités et stratégies mises en œuvre par des hommes et des femmes pour trouver leur propre bonheur.",
     "urn": "urn:mediathek:arte:program:RC-024376_fr",
     "categories": ["society", "talkshow", "documentary"]
   },
   {
+    "name": "Voyage en cuisine",
+    "description": "Pierre Raffard, géographe de l’alimentation, raconte l’odyssée de ce que nous mangeons, reflet des échanges, des colonisations, des migrations et des métissages à travers des recettes exceptionnelles filmées dans le monde entier. Il nous ouvre les portes de la cuisine de chef(fe)s, stars ou de street-food, qui dévoilent l’univers qui les entoure.",
     "urn": "urn:mediathek:arte:program:RC-026195_fr",
     "categories": ["food_cooking", "travel_nature"]
   },
   {
+    "name": "Voyage gourmand",
+    "description": "Quand on aime cuisiner, on est parfois à court d’idées. De la bergamote aux roses ou aux asperges, la jeune cheffe Lucie Fischer-Chapalain décortique un à un les aliments, des plus courants aux plus inattendus.  Elle nous en dévoile les vertus et les origines, sans oublier les petites recettes simples à reproduire chez soi.",
     "urn": "urn:mediathek:arte:program:RC-026303_fr",
     "categories": ["food_cooking", "knowledge", "lifestyle"]
   },
   {
+    "name": "Pop-Ikonen",
+    "urn": "urn:mediathek:arte:program:RC-018547_de",
+    "categories": ["music", "documentary"]
+  },
+  {
+    "name": "Icônes pop",
     "urn": "urn:mediathek:arte:program:RC-018547_fr",
     "categories": ["music", "documentary"]
   }
