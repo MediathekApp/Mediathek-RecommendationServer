@@ -3,6 +3,9 @@ import hashlib
 import urllib.parse
 import urllib.request
 import sys
+import config  # <- This is not part of the repository!
+
+CACHING_SERVER_URL = config.CACHING_SERVER_URL
 
 def process_aliases(publisher_id, json_file_path='data.json'):
     try:
@@ -25,20 +28,20 @@ def process_aliases(publisher_id, json_file_path='data.json'):
                 entry_hash = hashlib.sha256(entry['urn'].encode('utf-8')).hexdigest()
 
                 # Compose URL and payload
-                url = f"https://mediathek-cs.it.wehlte.com/aliases/{query_hash}.jsondfl"
+                url = f"{CACHING_SERVER_URL}/aliases/{query_hash}.jsondfl"
                 data = f"{entry_hash}.jsondfl".encode('utf-8')
 
                 # For testing purposes, output the URL and data
                 # and stop the script:
                 print(f"Processing alias for query: '{query}'")
-                print(f"Encoded Query: '{encoded_query}'")
-                print(f"Query URN: {query_urn}")
-                print(f"Query Hash: {query_hash}")
-                print(f"Entry URN: {entry['urn']}")
-                print(f"Entry Hash: {entry_hash}")
-                print(f"URL: {url}")
-                print(f"Data: {data}")
-                print("-" * 40)
+                # print(f"Encoded Query: '{encoded_query}'")
+                # print(f"Query URN: {query_urn}")
+                # print(f"Query Hash: {query_hash}")
+                # print(f"Entry URN: {entry['urn']}")
+                # print(f"Entry Hash: {entry_hash}")
+                # print(f"URL: {url}")
+                # print(f"Data: {data}")
+                # print("-" * 40)
                 # return
 
                 # Build and send the PUT request
@@ -57,7 +60,7 @@ def process_aliases(publisher_id, json_file_path='data.json'):
                 except urllib.error.URLError as e:
                     print(f"❌ URLError for '{query}': {e.reason}")
 
-            return
+            # return
 
     except Exception as e:
         print(f"❌ Error: {e}")
