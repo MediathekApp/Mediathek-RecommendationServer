@@ -15,8 +15,8 @@ programs_with_categories = load_programs_with_categories_from_publishers(publish
 
 
 # Step 1: Download metrics
-HOST = config.RECOMMENDATION_SERVER_HOST
-url = "https://{}/counters".format(HOST)
+RECOMMENDATION_SERVER_URL = config.RECOMMENDATION_SERVER_URL
+url = f"{RECOMMENDATION_SERVER_URL}/counters"
 try:
     with urllib.request.urlopen(url) as response:
         data_bytes = response.read()

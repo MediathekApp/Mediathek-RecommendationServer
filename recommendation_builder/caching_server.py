@@ -4,13 +4,12 @@ import hashlib
 import zlib
 import config  # <- This is not part of the repository!
 
-# define the host
-HOST = config.CACHING_SERVER_HOST
+CACHING_SERVER_URL = config.CACHING_SERVER_URL
 
 def fetch_cached_item_data(urn):
     # Step 1: Hash URN to SHA256
     sha256_hash = hashlib.sha256(urn.encode('utf-8')).hexdigest()
-    url = f"https://{HOST}/keys/{sha256_hash}.jsondfl"
+    url = f"{CACHING_SERVER_URL}/keys/{sha256_hash}.jsondfl"
 
     try:
         with urllib.request.urlopen(url) as response:
@@ -41,7 +40,7 @@ def push_aggregated_data(data, urn="urn:mediathek:recommendations"):
 
     # Step 3: Create the SHA256 hash of the URN
     sha256_hash = hashlib.sha256(urn.encode('utf-8')).hexdigest()
-    url = f"https://{HOST}/keys/{sha256_hash}.jsondfl"
+    url = f"{CACHING_SERVER_URL}/keys/{sha256_hash}.jsondfl"
 
     # Step 4: PUT request
     try:
